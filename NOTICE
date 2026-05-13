@@ -1,0 +1,7 @@
+This repository contains project code and lightweight metadata only.
+
+Large datasets, pretrained backbones, released checkpoints, and third-party source
+trees are intentionally excluded from version control. Users are responsible for
+following the licenses and usage terms of Ref-AVSBench, Grounded-SAM-2,
+GroundingDINO, SAM2, BEATs, CLIP, LLaMA, Transformers, and related dependencies.
+

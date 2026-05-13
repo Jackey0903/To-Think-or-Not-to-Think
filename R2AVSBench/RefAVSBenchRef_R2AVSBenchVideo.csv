@@ -1,0 +1,401 @@
+vid,uid,split,fid,exp
+-3ABOVeVmpU_136000_146000,-3ABOVeVmpU_136000_146000_piano_1,test_s,1,The object that keeps making sound at all times.
+-FfYTvz5tFE_96000_106000,-FfYTvz5tFE_96000_106000_ukulele_1,test_s,1,The object making the shortest sound duration.
+-wb3JWo4qTg_380000_390000,-wb3JWo4qTg_380000_390000_couch_1,test_s,1,The couch sit by a woman.
+2GSMIkobu5A_50000_60000,2GSMIkobu5A_50000_60000_harp_1,test_s,0,The object making a sound by being played by the woman.
+2QAev97bk0c_75000_85000,2QAev97bk0c_75000_85000_pipa_1,test_s,5,The object making louder sound than the ukulele.
+2QAev97bk0c_75000_85000,2QAev97bk0c_75000_85000_woman_1,test_s,0,The object making a sound by playing the pipa.
+2QKv1iBsTJM_190000_200000,2QKv1iBsTJM_190000_200000_man_1,test_s,1,The object making a sound by playing the instrument.
+2QKv1iBsTJM_190000_200000,2QKv1iBsTJM_190000_200000_table_1,test_s,2,The table far the drum.
+2VqnoV67t0g_290000_300000,2VqnoV67t0g_290000_300000_marimba_1,test_s,0,The object making a sound by being played by the woman.
+2uOqzDrthyA_20000_30000,2uOqzDrthyA_20000_30000_clock_1,test_s,1,The sounding object.
+2wmxck5D9Vw_102000_112000,2wmxck5D9Vw_102000_112000_cello_1,test_s,1,The sounding object on the right of the violin.
+45oaGY3mzlQ_5000_15000,45oaGY3mzlQ_5000_15000_cello_1,test_s,0,The object that making a sound after the violin.
+4DCxlVTWN8g_3000_13000,4DCxlVTWN8g_3000_13000_guzheng_1,test_s,1,The object making a sound by being played by the woman on the right.
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_chair_1,test_s,0,The chair near the bassoon.
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_chair_3,test_s,3,The chair sat by the person playing the piano.
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_piano_1,test_s,2,The object making a sound by being played by the woman.
+4HXvK9zcoyk_115000_125000,4HXvK9zcoyk_115000_125000_guitar_1,test_s,1,The object making the lowest sound.
+4HXvK9zcoyk_70000_80000,4HXvK9zcoyk_70000_80000_bass_2,test_s,3,The blue bass.
+4HXvK9zcoyk_70000_80000,4HXvK9zcoyk_70000_80000_bass_3,test_s,9,The black bass.
+4YLjVRZHoZI_1750000_1760000,4YLjVRZHoZI_1750000_1760000_handpan_2,test_s,4,The object making the fastest rhythm.
+4YLjVRZHoZI_1750000_1760000,4YLjVRZHoZI_1750000_1760000_violin_1,test_s,9,The object making a sound by being played by the man on the left.
+4bg9UqOSeBo_160000_170000,4bg9UqOSeBo_160000_170000_dog_1,test_s,2,The object making the shortest sound duration.
+4bg9UqOSeBo_90000_100000,4bg9UqOSeBo_90000_100000_dog_1,test_s,0,The dog playing with a woman.
+4k63MOSjOBw_21000_31000,4k63MOSjOBw_21000_31000_violin_1,test_s,0,The violin being played.
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_chair_1,test_s,6,The chair seated by the man.
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_chair_2,test_s,4,The object behind the sounding woman.
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_guitar_1,test_s,1,The object making a sound by being played by the man.
+50Z4O0mzAXg_150000_160000,50Z4O0mzAXg_150000_160000_guitar_1,test_s,2,The object making a sound by being played by the man on the right.
+56_Unf49ZyM_27000_37000,56_Unf49ZyM_27000_37000_pipa_1,test_s,0,The object making a sound by being played by the woman on the left.
+56_Unf49ZyM_50000_60000,56_Unf49ZyM_50000_60000_pipa_1,test_s,0,The object making a sound by being played by the woman on the left.
+5FYG_Wtet7U_120000_130000,5FYG_Wtet7U_120000_130000_violin_1,test_s,0,The object making a sound by being played by the man at the corner.
+6WUjWMuoEhM_10000_20000,6WUjWMuoEhM_10000_20000_couch_1,test_s,1,The object with two men on it.
+6WUjWMuoEhM_10000_20000,6WUjWMuoEhM_10000_20000_hair-dryer_1,test_s,0,The object making the loudest sound.
+6aeLYISKUw8_50000_60000,6aeLYISKUw8_50000_60000_vacuum-cleaner_1,test_s,0,The sounding object.
+6oHMyrDEtmM_90000_100000,6oHMyrDEtmM_90000_100000_handpan_1,test_s,3,The object being held by a woman.
+6tTLxIKVtfE_26000_36000,6tTLxIKVtfE_26000_36000_flute_1,test_s,2,The object making a sound by being played by the man on the right.
+6xzc5Y-78-s_100000_110000,6xzc5Y-78-s_100000_110000_vacuum-cleaner_1,test_s,0,The object that keeps making sound at all times.
+79T0FclnIDw_0_10000,79T0FclnIDw_0_10000_couch_1,test_s,2,The couch staying still.
+79T0FclnIDw_0_10000,79T0FclnIDw_0_10000_couch_2,test_s,3,The brown couch.
+79w-8fTYazw_15000_25000,79w-8fTYazw_15000_25000_ukulele_1,test_s,1,The first sounding object held by a boy.
+7RHm25E9qro_4000_14000,7RHm25E9qro_4000_14000_guitar_1,test_s,1,The sounding object beneath the harmonica.
+7pEu6_bG0Kc_10000_20000,7pEu6_bG0Kc_10000_20000_boat_1,test_s,0,The object navigating by water.
+7pEu6_bG0Kc_123000_133000,7pEu6_bG0Kc_123000_133000_boat_1,test_s,0,The object moving on the water.
+7pEu6_bG0Kc_50000_60000,7pEu6_bG0Kc_50000_60000_boat_1,test_s,0,The sounding object.
+7pNykt6zACc_275000_285000,7pNykt6zACc_275000_285000_chair_1,test_s,1,The chair is seated by a woman with hair draped over her.
+7pWa_kcAoMg_49000_59000,7pWa_kcAoMg_49000_59000_saxophone_1,test_s,0,The object making a sound by being played by the man.
+872Lwp3MOro_6000_16000,872Lwp3MOro_6000_16000_couch_1,test_s,0,the couch.
+872Lwp3MOro_6000_16000,872Lwp3MOro_6000_16000_hair-dryer_1,test_s,1,The first object to make a sound.
+89wbeFGWzkY_415000_425000,89wbeFGWzkY_415000_425000_man_1,test_s,1,The object making a sound by singing.
+8CNsNi5mmSE_58000_68000,8CNsNi5mmSE_58000_68000_pipa_1,test_s,0,the object making a sound by being played by the person on the left.
+8cmMa2PUnvQ_30000_40000,8cmMa2PUnvQ_30000_40000_chair_1,test_s,1,The chair being sat on by a woman.
+948s7w-mFs8_457000_467000,948s7w-mFs8_457000_467000_razor_1,test_s,0,The first object to make a sound.
+9RjnpAQXLk8_60000_70000,9RjnpAQXLk8_60000_70000_harp_1,test_s,0,The object making a sound by being played by the man on the left.
+9ZQ-T83pfWk_65000_75000,9ZQ-T83pfWk_65000_75000_flute_1,test_s,2,The object making the loudest sound.
+9scT0XNxmVw_330000_340000,9scT0XNxmVw_330000_340000_couch_1,test_s,1,The couch being sat on by the woman in green.
+BRAQLY85x5U_75000_85000,BRAQLY85x5U_75000_85000_chair_1,test_s,9,The chair being sat on by the woman.
+BSkcM4ScyEs_150000_160000,BSkcM4ScyEs_150000_160000_couch_1,test_s,0,The object sat on by the man.
+BSkcM4ScyEs_150000_160000,BSkcM4ScyEs_150000_160000_handpan_1,test_s,2,The sounding object.
+Bq_d0kJRs4k_136000_146000,Bq_d0kJRs4k_136000_146000_hair-dryer_1,test_s,1,The object that making a sound after the dog.
+CCFZT2_TJr0_15000_25000,CCFZT2_TJr0_15000_25000_piano_1,test_s,4,The object making the lowest sound.
+CEyVVscBBg8_13000_23000,CEyVVscBBg8_13000_23000_cello_1,test_s,0,the object making a sound by being played by the person on the left.
+CEyVVscBBg8_13000_23000,CEyVVscBBg8_13000_23000_violin_1,test_s,1,the object making a sound by being played by the person on the right.
+CVA8LpBW3Sc_76000_86000,CVA8LpBW3Sc_76000_86000_cello_1,test_s,1,The first object to make a sound.
+CVA8LpBW3Sc_76000_86000,CVA8LpBW3Sc_76000_86000_saxophone_1,test_s,0,The object that making a sound after the cello.
+CjQmcO_Q5d8_42000_52000,CjQmcO_Q5d8_42000_52000_clarinet_1,test_s,0,The clarinet being played by a man.
+DB_SkDdL_cA_180000_190000,DB_SkDdL_cA_180000_190000_handpan_1,test_s,1,The object making the longest sound duration.
+DB_SkDdL_cA_180000_190000,DB_SkDdL_cA_180000_190000_man_1,test_s,0,The man near the sounding handpan.
+EKM1wu2vXy4_26000_36000,EKM1wu2vXy4_26000_36000_ukulele_1,test_s,1,The object making the longest sound duration.
+ETmo71vP7tA_20000_30000,ETmo71vP7tA_20000_30000_piano_1,test_s,0,The object making the longest sound duration.
+EXjmfFyOAqA_30000_40000,EXjmfFyOAqA_30000_40000_flute_1,test_s,2,flute.
+EXjmfFyOAqA_30000_40000,EXjmfFyOAqA_30000_40000_ukulele_1,test_s,3,ukulele.
+EuU2PWB1t2g_20000_30000,EuU2PWB1t2g_20000_30000_cello_1,test_s,1,The sounding cello.
+EzPcuNoSHMM_0_10000,EzPcuNoSHMM_0_10000_clock_1,test_s,0,The first object to make a sound.
+EzPcuNoSHMM_0_10000,EzPcuNoSHMM_0_10000_couch_1,test_s,1,The brown couch.
+FBsYnc6YtWM_190000_200000,FBsYnc6YtWM_190000_200000_boat_1,test_s,4,The boat sail on the sea.
+FBsYnc6YtWM_361000_371000,FBsYnc6YtWM_361000_371000_boat_1,test_s,0,The object that keeps making sound at all times.
+G4ub_r9kYX0_26000_36000,G4ub_r9kYX0_26000_36000_girl_1,test_s,0,The first object to make a sound.
+GG-PF_JxeW4_1640000_1650000,GG-PF_JxeW4_1640000_1650000_guitar_1,test_s,2,The sounding object in front of the man on the left
+GG-PF_JxeW4_1640000_1650000,GG-PF_JxeW4_1640000_1650000_piano_1,test_s,1,The sounding object on the right of the woman.
+HtsvslSafoA_541000_551000,HtsvslSafoA_541000_551000_boat_1,test_s,0,The object that keeps making sound at all times.
+J4VeWujsLJg_32000_42000,J4VeWujsLJg_32000_42000_keyboard_1,test_s,0,The object that keeps making sound at all times.
+JStvWj9GKhQ_14000_24000,JStvWj9GKhQ_14000_24000_cello_1,test_s,0,The object making the lowest sound.
+JVjDa0NmfeE_173000_183000,JVjDa0NmfeE_173000_183000_cat_1,test_s,0,The black cat.
+JVjDa0NmfeE_173000_183000,JVjDa0NmfeE_173000_183000_cat_2,test_s,1,The white cat.
+J_r9nOIoozw_133000_143000,J_r9nOIoozw_133000_143000_woman_1,test_s,3,The object making a sound by sing a song.
+J_r9nOIoozw_133000_143000,J_r9nOIoozw_133000_143000_woman_1,test_s,3,The object making a sound by sing a song.
+JgkUToh3HeY_49000_59000,JgkUToh3HeY_49000_59000_guzheng_1,test_s,3,The object making a sound by being played by the woman in red.
+JgkUToh3HeY_49000_59000,JgkUToh3HeY_49000_59000_pipa_1,test_s,0,The pipa on the left of the sounding guzheng.
+JlMeXmoMEEM_35000_45000,JlMeXmoMEEM_35000_45000_flute_1,test_s,2,The object making the loudest sound.
+JlMeXmoMEEM_35000_45000,JlMeXmoMEEM_35000_45000_ukulele_1,test_s,3,The sounding object on the left of the flute.
+LFs44HbaTr8_46000_56000,LFs44HbaTr8_46000_56000_guzheng_1,test_s,1,The object making the loudest sound.
+LIUU1ZmIljc_270000_280000,LIUU1ZmIljc_270000_280000_marimba_1,test_s,5,The object making faster rhythm than the piano.
+LOFX2UVozf8_80000_90000,LOFX2UVozf8_80000_90000_couch_1,test_s,0,The couch sat by a man.
+LdB5pW9c_N4_477000_487000,LdB5pW9c_N4_477000_487000_sitar_1,test_s,0,The object making the loudest sound.
+LxIi6zy5zJ4_0_10000,LxIi6zy5zJ4_0_10000_cat_1,test_s,0,The cat with three different colors of fur.
+MDyjY3uiWp0_273000_283000,MDyjY3uiWp0_273000_283000_saw_1,test_s,0,The sounding object.
+MDyjY3uiWp0_297000_307000,MDyjY3uiWp0_297000_307000_saw_1,test_s,0,The object making the loudest sound.
+MDyjY3uiWp0_297000_307000,MDyjY3uiWp0_297000_307000_saw_4,test_s,4,The muted saw.
+MDyjY3uiWp0_354000_364000,MDyjY3uiWp0_354000_364000_saw_1,test_s,1,The object held by the man.
+MDyjY3uiWp0_354000_364000,MDyjY3uiWp0_354000_364000_saw_2,test_s,2,The object put on the table.
+MFn93Sqq23g_10000_20000,MFn93Sqq23g_10000_20000_guitar_1,test_s,2,The brown guitar.
+NDq6ZtDNvVY_200000_210000,NDq6ZtDNvVY_200000_210000_couch_1,test_s,0,The object behind the sounding handpan.
+NDq6ZtDNvVY_200000_210000,NDq6ZtDNvVY_200000_210000_handpan_1,test_s,1,The object making a sound by being played by the man.
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_cello_1,test_s,2,The object being held by the woman.
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_saxophone_1,test_s,1,The object being held by the man on the left.
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_saxophone_2,test_s,0,The object making a sound by being played by the man on the right of the woman.
+OGCyzmaM_kE_10000_20000,OGCyzmaM_kE_10000_20000_piano_1,test_s,4,The black piano.
+OGCyzmaM_kE_10000_20000,OGCyzmaM_kE_10000_20000_violin_1,test_s,5,The object making a sound by being played by the person on the left.
+OMYuLiqSUxE_180000_190000,OMYuLiqSUxE_180000_190000_clarinet_1,test_s,0,The object that keeps making sound at all times.
+OMYuLiqSUxE_30000_40000,OMYuLiqSUxE_30000_40000_clarinet_1,test_s,0,The clarinet being played by a man.
+OPVEPq_r-vk_211000_221000,OPVEPq_r-vk_211000_221000_cello_1,test_s,0,The object making a sound by being played by the womam.
+OPVEPq_r-vk_211000_221000,OPVEPq_r-vk_211000_221000_saxophone_1,test_s,1,The sounding object near the man.
+OlZDfX8gWgU_59000_69000,OlZDfX8gWgU_59000_69000_flute_1,test_s,0,The object that keeps making sound at all times.
+PL-qv34uGz4_110000_120000,PL-qv34uGz4_110000_120000_vacuum-cleaner_1,test_s,0,The sounding object.
+Pe1LuVFTczE_106000_116000,Pe1LuVFTczE_106000_116000_woman_1,test_s,1,woman.
+Pe1LuVFTczE_358000_368000,Pe1LuVFTczE_358000_368000_pipa_1,test_s,3,The object making the fastest rhythm.
+Pgn_5eHt1Xw_78000_88000,Pgn_5eHt1Xw_78000_88000_guzheng_1,test_s,0,The object that keeps making sound at all times.
+Ptm0GYEf4AI_40000_50000,Ptm0GYEf4AI_40000_50000_man_1,test_s,0,The object making a sound by use a saw.
+Ptm0GYEf4AI_40000_50000,Ptm0GYEf4AI_40000_50000_saw_1,test_s,1,The sounding saw.
+QHcG-FDM75Q_113000_123000,QHcG-FDM75Q_113000_123000_cello_1,test_s,1,The object making the shortest sound duration.
+QNiHU290owU_55000_65000,QNiHU290owU_55000_65000_chair_1,test_s,0,The object on the right of the sounding marimba.
+QfQGMj0Mpes_25000_35000,QfQGMj0Mpes_25000_35000_man_1,test_s,0,The man wearing black clothes and playing the musical instrument.
+RMF6sp6tWHM_100000_110000,RMF6sp6tWHM_100000_110000_couch_1,test_s,1,The black couch.
+Ru7m8PyMlVM_120000_130000,Ru7m8PyMlVM_120000_130000_clock_1,test_s,2,The object making the fastest rhythm.
+SFVZ2OklsVM_2715000_2725000,SFVZ2OklsVM_2715000_2725000_accordion_1,test_s,3,The object making a sound by being played by the man in the right.
+SFVZ2OklsVM_2715000_2725000,SFVZ2OklsVM_2715000_2725000_couch_1,test_s,4,The yellow couch.
+S_NJKy7Aoto_213000_223000,S_NJKy7Aoto_213000_223000_tabla_1,test_s,1,The object making a sound by being played by the man on the left.
+S_NJKy7Aoto_266000_276000,S_NJKy7Aoto_266000_276000_sitar_1,test_s,0,The sounding object on the right of the tabla.
+S_NJKy7Aoto_266000_276000,S_NJKy7Aoto_266000_276000_tabla_1,test_s,1,The object making the fastest rhythm.
+T9K1uy-G5qA_110000_120000,T9K1uy-G5qA_110000_120000_violin_1,test_s,0,The object making a sound by being played by the woman.
+TCcD-vOUtNc_99000_109000,TCcD-vOUtNc_99000_109000_chair_2,test_s,10,The chair seated by the woman on the right.
+TCcD-vOUtNc_99000_109000,TCcD-vOUtNc_99000_109000_harp_3,test_s,0,the brown harp.
+U1dZX1ReD88_48000_58000,U1dZX1ReD88_48000_58000_saxophone_1,test_s,1,The object making the longest sound duration.
+U1pyRmKgnrM_142000_152000,U1pyRmKgnrM_142000_152000_razor_1,test_s,1,The object that keeps making sound at all times.
+URUkK0bzULI_20000_30000,URUkK0bzULI_20000_30000_marimba_1,test_s,1,The sounding object.
+URZyjoh9lbc_500000_510000,URZyjoh9lbc_500000_510000_chair_1,test_s,1,The chair.
+URZyjoh9lbc_560000_570000,URZyjoh9lbc_560000_570000_chair_1,test_s,1,The object with a white cushion on it
+UYUH7Jmfp3g_76000_86000,UYUH7Jmfp3g_76000_86000_tabla_1,test_s,1,The object making a sound by being played by the man in white.
+V9KZ5FCtG9A_15000_25000,V9KZ5FCtG9A_15000_25000_bass_1,test_s,2,The black bass.
+VbEvfbj_IxU_117000_127000,VbEvfbj_IxU_117000_127000_violin_1,test_s,1,The object making slower rhythm than the handpan.
+VkcYchOGibc_20000_30000,VkcYchOGibc_20000_30000_guitar_1,test_s,0,The first object to make a sound.
+WSy8ay1avew_60000_70000,WSy8ay1avew_60000_70000_chair_1,test_s,2,The object being seated by the man.
+WkbCFN97-NM_126000_136000,WkbCFN97-NM_126000_136000_bass_1,test_s,2,The bass being held by a man wearing a shirt.
+X-V2G7R5TSo_15000_25000,X-V2G7R5TSo_15000_25000_guzheng_1,test_s,0,The sounding object on the left of the pipa.
+X6U476H2pWw_20000_30000,X6U476H2pWw_20000_30000_clock_1,test_s,0,The sounding object.
+YAW2vMKV9pw_50000_60000,YAW2vMKV9pw_50000_60000_keyboard_1,test_s,0,The object making the fastest rhythm.
+ZR3vnlhJuSE_101000_111000,ZR3vnlhJuSE_101000_111000_bass_1,test_s,0,The object making the intermittent sound.
+ZU0JSxWk1Po_2000_12000,ZU0JSxWk1Po_2000_12000_guzheng_1,test_s,1,The object making a sound by being played by the woman on the right.
+_ta7b5gmhJs_120000_130000,_ta7b5gmhJs_120000_130000_handpan_1,test_s,0,The object that keeps making sound at all times.
+aBmzZJZ_M8Y_9000_19000,aBmzZJZ_M8Y_9000_19000_clarinet_1,test_s,1,The clarinet.
+aZenX0O9A7A_91000_101000,aZenX0O9A7A_91000_101000_bass_2,test_s,0,The object making the fastest rhythm.
+bELyeHxF7eA_42000_52000,bELyeHxF7eA_42000_52000_violin_1,test_s,1,The object making a sound by being played by the man seated on the right.
+bcGfmy0X-CQ_30000_40000,bcGfmy0X-CQ_30000_40000_chair_1,test_s,0,The chair on the right of the man.
+bcGfmy0X-CQ_30000_40000,bcGfmy0X-CQ_30000_40000_chair_3,test_s,1,The chair being seated by the man wearing glasses.
+c3enHqIWN3c_20000_30000,c3enHqIWN3c_20000_30000_ukulele_1,test_s,0,The sounding object.
+cIbVu0ixSAo_302000_312000,cIbVu0ixSAo_302000_312000_violin_1,test_s,0,The object making a sound by being played by the woman.
+dRa7aBGnStU_82000_92000,dRa7aBGnStU_82000_92000_violin_1,test_s,0,The object making a sound by being played by the man on the right.
+dUcOkRkz6bA_387000_397000,dUcOkRkz6bA_387000_397000_bass_1,test_s,3,The black and silver bass.
+dUcOkRkz6bA_387000_397000,dUcOkRkz6bA_387000_397000_man_1,test_s,6,The man in the middle.
+dVa49WwXzr8_481000_491000,dVa49WwXzr8_481000_491000_marimba_1,test_s,1,The object making a sound by being played by the man on the left.
+dk_xhLkWyDo_30000_40000,dk_xhLkWyDo_30000_40000_piano_1,test_s,1,The object making a sound by being played by the woman.
+ehlPuuiNEd8_376000_386000,ehlPuuiNEd8_376000_386000_guzheng_1,test_s,2,The object making a sound by being played by the man in middle.
+f0jKjIOFzAY_225000_235000,f0jKjIOFzAY_225000_235000_saxophone_1,test_s,0,The sounding object in front of the man.
+f0jKjIOFzAY_243000_253000,f0jKjIOFzAY_243000_253000_cello_1,test_s,1,The object held by the woman.
+f0jKjIOFzAY_243000_253000,f0jKjIOFzAY_243000_253000_saxophone_1,test_s,0,The object held by the man.
+jj1UxRTBaNw_210000_220000,jj1UxRTBaNw_210000_220000_piano_1,test_s,0,The sounding object on the right of the guzheng.
+kF2y7RIC7-Y_385000_395000,kF2y7RIC7-Y_385000_395000_ukulele_1,test_s,1,The object making a sound by being played by a girl.
+kLuuxnijxa0_432000_442000,kLuuxnijxa0_432000_442000_boat_1,test_s,0,The boat traveling on the sea.
+kNVFsDnePrM_30000_40000,kNVFsDnePrM_30000_40000_ukulele_1,test_s,1,The ukulele.
+kNVFsDnePrM_30000_40000,kNVFsDnePrM_30000_40000_woman_1,test_s,0,The woman is singing.
+l5bjljDHFK0_67000_77000,l5bjljDHFK0_67000_77000_guzheng_1,test_s,0,The object that keeps making sound at all times.
+lcOP60uXMeI_198000_208000,lcOP60uXMeI_198000_208000_man_1,test_s,2,man.
+lcOP60uXMeI_20000_30000,lcOP60uXMeI_20000_30000_piano_1,test_s,6,The object making a sound by being played by the man on the left
+lzzMHoi3r2w_50000_60000,lzzMHoi3r2w_50000_60000_marimba_1,test_s,2,The object that keeps making sound at all times.
+mUN93MlvX64_42000_52000,mUN93MlvX64_42000_52000_piano_1,test_s,6,The sounding object on the right of the bassoon.
+mqB05HNR03g_630000_640000,mqB05HNR03g_630000_640000_table_1,test_s,0,The table appearing through the entire video.
+oP550FUJxUA_16000_26000,oP550FUJxUA_16000_26000_tabla_1,test_s,1,The object making a sound by being played by the man on the left.
+oP550FUJxUA_97000_107000,oP550FUJxUA_97000_107000_tabla_1,test_s,1,The object making a sound by being played by the man on the left.
+oRSCL3149fI_146000_156000,oRSCL3149fI_146000_156000_piano_1,test_s,0,The object making lower sound than the clairnet.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_girl_1,test_s,0,The object making a sound by singing.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_man_1,test_s,1,The person in grey and playing the ukulele.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_ukulele_1,test_s,3,The object making a sound by being played by the girl.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_ukulele_2,test_s,2,The object making a sound by being played by the man.
+oaYIWYXFMqY_70000_80000,oaYIWYXFMqY_70000_80000_bass_1,test_s,0,The bass being held by a man.
+oaYIWYXFMqY_70000_80000,oaYIWYXFMqY_70000_80000_flute_1,test_s,4,The object making the slowest rhythm.
+oyi5pKPwz9Q_3000_13000,oyi5pKPwz9Q_3000_13000_violin_1,test_s,1,The instrument that didn't make any sound.
+p5uRwtw7S3E_243000_253000,p5uRwtw7S3E_243000_253000_cello_2,test_s,1,The sounding object near the woman.
+pG1aSAUbf4I_150000_160000,pG1aSAUbf4I_150000_160000_handpan_3,test_s,1,The sounding object on the legs of the man on the right.
+pIp-fSFvipo_235000_245000,pIp-fSFvipo_235000_245000_vacuum-cleaner_1,test_s,0,The sounding object.
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_cello_1,test_s,1,The cello near the clarinet.
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_clarinet_1,test_s,3,The clarinet on the right of the cello.
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_guitar_1,test_s,2,The guitar being played by a man in gray shirt.
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_saxophone_1,test_s,0,The saxophone on the left of the guitar.
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_cello_1,test_s,1,the cello on the far right.
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_violin_1,test_s,2,the violin on the far left.
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_violin_3,test_s,13,The object making a sound by being played by the woman in long hair sitting in the middle of the stage.
+r4NdM595K5c_40000_50000,r4NdM595K5c_40000_50000_flute_1,test_s,2,The sounding object on the left of the guitar.
+rBAoCu5ykvE_177000_187000,rBAoCu5ykvE_177000_187000_razor_1,test_s,0,The sounding object.
+rzKjN2en0H8_830000_840000,rzKjN2en0H8_830000_840000_accordion_1,test_s,3,The object making the loudest sound.
+sHyhvtLTCbo_10000_20000,sHyhvtLTCbo_10000_20000_chair_1,test_s,1,The chair being sat on by the man.
+sV1o5VmL-9g_824000_834000,sV1o5VmL-9g_824000_834000_dog_1,test_s,3,The object making the lowest sound.
+sjIEiu_ovKc_470000_480000,sjIEiu_ovKc_470000_480000_harp_1,test_s,0,The object that making a sound after the woman.
+tMorLZku6Pc_194000_204000,tMorLZku6Pc_194000_204000_sitar_1,test_s,0,The object making a sound by being played by the man on the right.
+tMorLZku6Pc_194000_204000,tMorLZku6Pc_194000_204000_tabla_3,test_s,3,The tabla making no sound.
+tZbh1cwwfv0_222000_232000,tZbh1cwwfv0_222000_232000_piano_1,test_s,5,The object making the lowest sound.
+topmJqYT-Ts_1000_11000,topmJqYT-Ts_1000_11000_cello_1,test_s,1,The object making a sound by being played by the woman on the right.
+vOj00VJiBuk_80000_90000,vOj00VJiBuk_80000_90000_girl_1,test_s,0,girl.
+vOj00VJiBuk_80000_90000,vOj00VJiBuk_80000_90000_guitar_1,test_s,1,The guitar being held by a girl.
+vVJ-Zhj2HvU_22000_32000,vVJ-Zhj2HvU_22000_32000_piano_1,test_s,3,The first object to make a sound.
+w7vA5f0vPvQ_15000_25000,w7vA5f0vPvQ_15000_25000_flute_1,test_s,4,The object making a sound by being played by the woman.
+wdB0tV2egxE_260000_270000,wdB0tV2egxE_260000_270000_chair_1,test_s,0,The object in front of the man standing on the right
+wrdAEmNvEj4_831000_841000,wrdAEmNvEj4_831000_841000_car_1,test_s,3,The white car.
+wrdAEmNvEj4_831000_841000,wrdAEmNvEj4_831000_841000_car_2,test_s,2,The black car.
+xUQ9rDswHdw_140000_150000,xUQ9rDswHdw_140000_150000_pipa_1,test_s,2,The object making a sound by being played by the woman on the right of the bald man.
+xnx3u5YaNuc_402000_412000,xnx3u5YaNuc_402000_412000_clarinet_1,test_s,4,The object making the loudest sound.
+z3Q_mZgKLrM_20000_30000,z3Q_mZgKLrM_20000_30000_marimba_1,test_s,2,The object making a sound by being played by the man in red.
+zPMUL7f4OOU_420000_430000,zPMUL7f4OOU_420000_430000_cello_1,test_s,0,The last object to make a sound.
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_man_1,test_s,0,The sounding object.
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_table_1,test_s,2,The brown table.
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_table_3,test_s,3,The black table.
+-fGFQTGd2nA_2000_12000,-fGFQTGd2nA_2000_12000_emergency-car_1,test_u,0,The object making the loudest sound.
+-kr4SUjnm88_0_10000,-kr4SUjnm88_0_10000_emergency-car_1,test_u,1,The object volume is louder over the time.
+0-vcLH45brE_1000_11000,0-vcLH45brE_1000_11000_emergency-car_1,test_u,0,The object that keeps making sound at all times.
+0AcFEwUx1IQ_24000_34000,0AcFEwUx1IQ_24000_34000_pig_1,test_u,0,The object making a sound by grunting.
+0EPK7Pv_lbE_45000_55000,0EPK7Pv_lbE_45000_55000_emergency-car_1,test_u,1,The object that keeps making sound at all times.
+0EPK7Pv_lbE_80000_90000,0EPK7Pv_lbE_80000_90000_emergency-car_1,test_u,1,The sounding object.
+0Stq3XQqmYE_13000_23000,0Stq3XQqmYE_13000_23000_gun_1,test_u,2,The object making a sound by shooting.
+0Stq3XQqmYE_13000_23000,0Stq3XQqmYE_13000_23000_gun_2,test_u,2,The object making the loudest sound.
+0YKDwGCoMkw_115000_125000,0YKDwGCoMkw_115000_125000_gun_1,test_u,2,The first object to make a sound.
+0iVM2GY3R_c_12000_22000,0iVM2GY3R_c_12000_22000_emergency-car_1,test_u,2,The sounding object.
+0iVM2GY3R_c_30000_40000,0iVM2GY3R_c_30000_40000_emergency-car_1,test_u,0,The object that keeps making sound at all times.
+1FclvjVqnJk_3000_13000,1FclvjVqnJk_3000_13000_tuba_1,test_u,1,The object that making a sound after the piano.
+1FclvjVqnJk_3000_13000,1FclvjVqnJk_3000_13000_tuba_2,test_u,1,The object making longer sound duration than the piano.
+1FclvjVqnJk_40000_50000,1FclvjVqnJk_40000_50000_tuba_1,test_u,1,The object valume is louder over the time.
+1hoqgyCNlZY_147000_157000,1hoqgyCNlZY_147000_157000_gun_1,test_u,0,The gun being held by a man.
+1hoqgyCNlZY_80000_90000,1hoqgyCNlZY_80000_90000_gun_1,test_u,1,The last object to make a sound.
+1ikYg55bxIg_120000_130000,1ikYg55bxIg_120000_130000_tuba_1,test_u,2,The yellow tuba.
+1ikYg55bxIg_15000_25000,1ikYg55bxIg_15000_25000_tuba_1,test_u,1,The object making the loudest sound.
+1ikYg55bxIg_15000_25000,1ikYg55bxIg_15000_25000_tuba_2,test_u,1,The object volume is louder over the time.
+1ikYg55bxIg_180000_190000,1ikYg55bxIg_180000_190000_tuba_1,test_u,0,The object making the loudest sound.
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_piano_1,test_u,2,The object making the longest sound duration.
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_tuba_1,test_u,0,The object making the shortest sound duration.
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_woman_1,test_u,1,The object making a sound by playing the piano.
+2B_tR_2Ww6Y_20000_30000,2B_tR_2Ww6Y_20000_30000_lion_1,test_u,0,The object making a sound by roaring.
+39xq5AATMp4_42000_52000,39xq5AATMp4_42000_52000_baby_1,test_u,2,The baby shaking its body.
+39xq5AATMp4_42000_52000,39xq5AATMp4_42000_52000_dog_1,test_u,0,The dog playing a piano.
+39xq5AATMp4_60000_70000,39xq5AATMp4_60000_70000_baby_1,test_u,2,The person that didn't make any sound.
+3gbLFB-r9Fs_1090000_1100000,3gbLFB-r9Fs_1090000_1100000_motorcycle_1,test_u,0,the first object to make a sound.
+3gbLFB-r9Fs_1182000_1192000,3gbLFB-r9Fs_1182000_1192000_motorcycle_1,test_u,0,The object that keeps making sound at all times.
+3gbLFB-r9Fs_1210000_1220000,3gbLFB-r9Fs_1210000_1220000_motorcycle_1,test_u,0,The object make loudest sound
+3mh36Zm0lLM_0_10000,3mh36Zm0lLM_0_10000_wolf_2,test_u,0,The last object to make a sound.
+4HlGbrNuyPU_0_10000,4HlGbrNuyPU_0_10000_sheep_1,test_u,0,The sheep near the donkeys.
+5YLQapaxA8o_80000_90000,5YLQapaxA8o_80000_90000_tuba_1,test_u,1,The object making a sound by being played by the man on the right.
+5YLQapaxA8o_80000_90000,5YLQapaxA8o_80000_90000_tuba_2,test_u,0,The tuba played by a man on the left.
+6985M7cEWSE_0_10000,6985M7cEWSE_0_10000_wolf_2,test_u,0,The wolf on the left of a stone.
+6985M7cEWSE_45000_55000,6985M7cEWSE_45000_55000_wolf_1,test_u,1,The sounding object on the left of the biggest rock.
+6985M7cEWSE_45000_55000,6985M7cEWSE_45000_55000_wolf_2,test_u,2,The sounding object on the biggest stone.
+6KT2mbCNxO4_228000_238000,6KT2mbCNxO4_228000_238000_truck_1,test_u,0,The sounding object.
+6KT2mbCNxO4_434000_444000,6KT2mbCNxO4_434000_444000_truck_1,test_u,0,The truck moving fast.
+73QQbJIeB3Y_128000_138000,73QQbJIeB3Y_128000_138000_baby_1,test_u,0,The baby playing with a dog.
+73QQbJIeB3Y_128000_138000,73QQbJIeB3Y_128000_138000_dog_1,test_u,2,The dog playing with a baby.
+73QQbJIeB3Y_232000_242000,73QQbJIeB3Y_232000_242000_woman_1,test_u,1,The woman holding a baby.
+73QQbJIeB3Y_298000_308000,73QQbJIeB3Y_298000_308000_dog_1,test_u,1,The dog on the right of the baby.
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_baby_3,test_u,0,The baby on the right of a dog.
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_dog_1,test_u,2,The object between the two babies.
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_dog_3,test_u,3,The dog standing.
+73QQbJIeB3Y_446000_456000,73QQbJIeB3Y_446000_456000_dog_1,test_u,1,The dog playing with the baby.
+73QQbJIeB3Y_460000_470000,73QQbJIeB3Y_460000_470000_dog_1,test_u,1,The dog playing with the boy.
+73QQbJIeB3Y_68000_78000,73QQbJIeB3Y_68000_78000_dog_1,test_u,2,The dog near the baby
+73QQbJIeB3Y_68000_78000,73QQbJIeB3Y_68000_78000_table_1,test_u,1,The table in front of the baby
+73QQbJIeB3Y_95000_105000,73QQbJIeB3Y_95000_105000_dog_1,test_u,1,The dog is jumping.
+73QQbJIeB3Y_95000_105000,73QQbJIeB3Y_95000_105000_man_2,test_u,0,The object wearing yellow clothes.
+7qeEs3ahSm4_49000_59000,7qeEs3ahSm4_49000_59000_gun_1,test_u,1,The sounding object.
+89IuqwavDU8_16000_26000,89IuqwavDU8_16000_26000_tiger_2,test_u,1,The sounding object.
+8FbJkBe9dsM_7000_17000,8FbJkBe9dsM_7000_17000_sheep_1,test_u,0,The object making the loudest sound.
+8RAGgYu2LlE_40000_50000,8RAGgYu2LlE_40000_50000_wolf_1,test_u,0,The object making the longest sound duration.
+A-e3dr7fTIs_0_10000,A-e3dr7fTIs_0_10000_mower_1,test_u,0,The object that keeps making sound at all times.
+A-e3dr7fTIs_15000_25000,A-e3dr7fTIs_15000_25000_mower_1,test_u,0,The sounding object.
+A-e3dr7fTIs_318000_328000,A-e3dr7fTIs_318000_328000_mower_1,test_u,0,The object that keeps making sound at all times.
+AL9pqcOjpGQ_43000_53000,AL9pqcOjpGQ_43000_53000_mower_1,test_u,0,The object that keeps making sound at all times.
+BY3AYOQL764_22000_32000,BY3AYOQL764_22000_32000_sheep_1,test_u,0,The sounding object.
+CAEGMnX65Qw_287000_297000,CAEGMnX65Qw_287000_297000_motorcycle_1,test_u,1,The object making the lowest sound.
+De5YhqX0jdI_0_10000,De5YhqX0jdI_0_10000_tuba_1,test_u,0,The object making the loudest sound.
+DzXVMjsZloE_0_10000,DzXVMjsZloE_0_10000_tiger_1,test_u,0,The sounding object.
+E9WRPq3Xtoc_68000_78000,E9WRPq3Xtoc_68000_78000_wolf_1,test_u,0,The object volume is louder over the time.
+ECTWcijfAzw_773000_783000,ECTWcijfAzw_773000_783000_gun_1,test_u,2,The object making lower sound than the men.
+ECTWcijfAzw_773000_783000,ECTWcijfAzw_773000_783000_gun_3,test_u,1,The object making the lowest sound.
+EZ4COEsxRbs_35000_45000,EZ4COEsxRbs_35000_45000_leopard_1,test_u,0,The object making the loudest sound.
+FPngHLY8Yf4_23000_33000,FPngHLY8Yf4_23000_33000_wolf_1,test_u,1,The object lying on the right of the woman.
+FPngHLY8Yf4_23000_33000,FPngHLY8Yf4_23000_33000_wolf_2,test_u,0,The wolf lying on the far left.
+FmLC0htEXVE_56000_66000,FmLC0htEXVE_56000_66000_lion_1,test_u,0,The lion lying in front of another one.
+FsdA8xRFHsE_0_10000,FsdA8xRFHsE_0_10000_wolf_1,test_u,0,The first object to make a sound.
+FzwtRoDcDDk_22000_32000,FzwtRoDcDDk_22000_32000_wolf_1,test_u,0,The object making the loudest sound.
+HZhuIUFjCKo_28000_38000,HZhuIUFjCKo_28000_38000_pig_1,test_u,0,The pig appearing through the entire video.
+Hu2QCqWLFgc_637000_647000,Hu2QCqWLFgc_637000_647000_mower_1,test_u,0,The sounding object.
+ImtOOKYZtuk_0_10000,ImtOOKYZtuk_0_10000_motorcycle_1,test_u,0,The object in front of the sounding man.
+ImtOOKYZtuk_189000_199000,ImtOOKYZtuk_189000_199000_motorcycle_1,test_u,0,The motorcycle being pushed forward by a man.
+JLpr70M7qnY_5000_15000,JLpr70M7qnY_5000_15000_sheep_1,test_u,0,The sounding object.
+KXvmc3dLn3E_720000_730000,KXvmc3dLn3E_720000_730000_truck_1,test_u,0,The object that keeps making sound at all times.
+LvdwLp6JWNM_3000_13000,LvdwLp6JWNM_3000_13000_wolf_1,test_u,0,The object making the shortest sound duration.
+MDHqWp129tQ_5000_15000,MDHqWp129tQ_5000_15000_emergency-car_1,test_u,0,The sounding object.
+MF-gcxj4hNQ_95000_105000,MF-gcxj4hNQ_95000_105000_motorcycle_2,test_u,1,The object on the left of the sounding man.
+Mivqxr0RS8w_18000_28000,Mivqxr0RS8w_18000_28000_vacuum-cleaner_1,test_u,1,The object making the loudest sound.
+NF28vE2RTpw_6000_16000,NF28vE2RTpw_6000_16000_leopard_1,test_u,0,The object rhythm is faster over the time.
+NwISV0dGIQE_330000_340000,NwISV0dGIQE_330000_340000_lion_1,test_u,0,The object making a sound by roaring.
+NwUomxbStjs_0_10000,NwUomxbStjs_0_10000_cat_1,test_u,1,The cat near the table.
+ODtzRJgFZSU_0_10000,ODtzRJgFZSU_0_10000_leopard_1,test_u,0,The object making the loudest sound.
+OEe6c3KIUB4_45000_55000,OEe6c3KIUB4_45000_55000_motorcycle_1,test_u,1,motorcycle.
+OX6T2z4P9fA_23000_33000,OX6T2z4P9fA_23000_33000_mower_1,test_u,0,The object making the loudest sound.
+Oqol-yj-Q90_114000_124000,Oqol-yj-Q90_114000_124000_leopard_1,test_u,0,The object making the loudest sound.
+Oqol-yj-Q90_98000_108000,Oqol-yj-Q90_98000_108000_leopard_1,test_u,0,The first object to make a sound.
+PYP-r0nvbFk_55000_65000,PYP-r0nvbFk_55000_65000_sheep_1,test_u,0,The object that making a sound before the woman.
+PcdKAvd51l0_41000_51000,PcdKAvd51l0_41000_51000_truck_1,test_u,0,The sounding object.
+PwazdGn6ldc_24000_34000,PwazdGn6ldc_24000_34000_pig_1,test_u,0,The object that keeps making sound at all times.
+PxXx1BUtLT4_5000_15000,PxXx1BUtLT4_5000_15000_truck_1,test_u,0,The object making the longest sound duration.
+PzmC9b4J1Ck_6000_16000,PzmC9b4J1Ck_6000_16000_wolf_1,test_u,0,The first object to make a sound.
+QTe-i0Pcn4s_37000_47000,QTe-i0Pcn4s_37000_47000_tuba_1,test_u,2,The sounding object on the right of the piano.
+QTe-i0Pcn4s_37000_47000,QTe-i0Pcn4s_37000_47000_tuba_3,test_u,4,The tuba near a drum.
+QnVzn-1mESU_100000_110000,QnVzn-1mESU_100000_110000_wolf_2,test_u,1,The wolf on the far right.
+RHy5nC-gRV8_668000_678000,RHy5nC-gRV8_668000_678000_baby_1,test_u,4,The baby near the sounding woman.
+SS53enMsEZg_0_10000,SS53enMsEZg_0_10000_leopard_1,test_u,0,The object making the loudest sound.
+TZDismkrChU_1000_11000,TZDismkrChU_1000_11000_leopard_1,test_u,0,The object making the loudest sound.
+Um82Xw7oCkc_28000_38000,Um82Xw7oCkc_28000_38000_wolf_1,test_u,1,The object making a sound by howling.
+VvlvMzBQ9E4_90000_100000,VvlvMzBQ9E4_90000_100000_woman_1,test_u,2,The woman on the left of the sounding hairdryer.
+W9BbX72k_X0_3000_13000,W9BbX72k_X0_3000_13000_leopard_1,test_u,0,The object making the loudest sound.
+WK5cRnwMdVY_2000_12000,WK5cRnwMdVY_2000_12000_wolf_1,test_u,0,The first object to make a sound.
+WOJMjZAMUFk_21000_31000,WOJMjZAMUFk_21000_31000_leopard_1,test_u,0,The small leopard.
+WPrsmLV6KlE_25000_35000,WPrsmLV6KlE_25000_35000_leopard_1,test_u,0,The first object to make a sound.
+Y0t3yM_3ZwE_145000_155000,Y0t3yM_3ZwE_145000_155000_pig_1,test_u,1,The pig is eating.
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_baby_1,test_u,0,baby.
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_baby_2,test_u,4,The first object to make a sound.
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_girl_1,test_u,3,The object making the lowest sound.
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_woman_1,test_u,1,woman.
+Y7gRJOkZV-g_745000_755000,Y7gRJOkZV-g_745000_755000_motorcycle_1,test_u,2,The sounding motorcycle.
+ZqwnEQf0UfQ_44000_54000,ZqwnEQf0UfQ_44000_54000_tuba_1,test_u,0,The object making the loudest sound.
+_-apT0tfo6U_16000_26000,_-apT0tfo6U_16000_26000_motorcycle_1,test_u,5,The motorcycle near the woman
+_JUuv3q0OCM_20000_30000,_JUuv3q0OCM_20000_30000_mower_1,test_u,0,The object making the loudest sound.
+amnXQw15Pzc_335000_345000,amnXQw15Pzc_335000_345000_gun_1,test_u,0,The object being held by a man.
+cLmFz_WDbdw_20000_30000,cLmFz_WDbdw_20000_30000_truck_1,test_u,0,The object making the loudest sound.
+cRT5SWbyA54_3000_13000,cRT5SWbyA54_3000_13000_tiger_1,test_u,0,The object making a sound by roaring.
+cVQUaecTlpU_163000_173000,cVQUaecTlpU_163000_173000_sheep_1,test_u,0,The sheep appearing through the entire video.
+dh2qX9nQIYI_30000_40000,dh2qX9nQIYI_30000_40000_tuba_1,test_u,2,The object making the slowest rhythm.
+dz2Rp5bISuE_27000_37000,dz2Rp5bISuE_27000_37000_sheep_1,test_u,0,The object making the intermittent sound.
+e4keL3T9Hz4_39000_49000,e4keL3T9Hz4_39000_49000_lion_1,test_u,0,The object making a sound by calling.
+f170h57Dips_0_10000,f170h57Dips_0_10000_truck_1,test_u,1,The object valume is louder over the time.
+fHFriMNHizQ_93000_103000,fHFriMNHizQ_93000_103000_truck_1,test_u,0,The object making the loudest sound.
+fUpQFMEb9po_0_10000,fUpQFMEb9po_0_10000_wolf_1,test_u,0,The sounding object.
+fvK8_OlcrCo_15000_25000,fvK8_OlcrCo_15000_25000_tuba_1,test_u,2,The object that making a sound after the piano.
+fvK8_OlcrCo_328000_338000,fvK8_OlcrCo_328000_338000_tuba_1,test_u,1,The object making the fastest rhythm.
+fvK8_OlcrCo_40000_50000,fvK8_OlcrCo_40000_50000_tuba_1,test_u,1,The object making slower rhythm than the piano.
+fvK8_OlcrCo_91000_101000,fvK8_OlcrCo_91000_101000_tuba_1,test_u,8,the object making the loudest sound.
+g5FVJveyyVM_30000_40000,g5FVJveyyVM_30000_40000_lion_1,test_u,0,The sounding object.
+gAf1QWvKNRE_262000_272000,gAf1QWvKNRE_262000_272000_gun_1,test_u,1,The object making the shortest sound duration.
+gAf1QWvKNRE_335000_345000,gAf1QWvKNRE_335000_345000_gun_1,test_u,1,gun.
+hornh-NQBHY_262000_272000,hornh-NQBHY_262000_272000_mower_1,test_u,0,The sounding object.
+ifGuIUPl1hE_30000_40000,ifGuIUPl1hE_30000_40000_lion_1,test_u,0,The object making a sound by roaring.
+iux1NLDSJhU_57000_67000,iux1NLDSJhU_57000_67000_leopard_1,test_u,0,The object making a sound by roaring.
+jME9QyhHS_0_0_10000,jME9QyhHS_0_0_10000_baby_1,test_u,0,The baby being held by the woman.
+jME9QyhHS_0_0_10000,jME9QyhHS_0_0_10000_couch_1,test_u,2,The object behind the sounding woman.
+jME9QyhHS_0_110000_120000,jME9QyhHS_0_110000_120000_couch_1,test_u,1,The object on the right of the sounding baby.
+jME9QyhHS_0_35000_45000,jME9QyhHS_0_35000_45000_couch_1,test_u,2,The couch being sitten by a baby and a woman.
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_baby_1,test_u,3,The object making the shortest sound duration.
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_couch_1,test_u,1,The couch on the right of the sounding baby.
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_woman_1,test_u,0,The first object to make a sound.
+k35blcO8Z7k_1195000_1205000,k35blcO8Z7k_1195000_1205000_baby_1,test_u,0,The object wearing white clothes.
+k35blcO8Z7k_1235000_1245000,k35blcO8Z7k_1235000_1245000_baby_1,test_u,0,The baby on the right of the woman.
+k35blcO8Z7k_35000_45000,k35blcO8Z7k_35000_45000_baby_1,test_u,0,The baby is being held by the woman.
+k35blcO8Z7k_35000_45000,k35blcO8Z7k_35000_45000_woman_1,test_u,1,The object that keeps making sound at all times.
+k35blcO8Z7k_50000_60000,k35blcO8Z7k_50000_60000_baby_1,test_u,0,The person that didn't make any sound.
+k35blcO8Z7k_700000_710000,k35blcO8Z7k_700000_710000_baby_1,test_u,1,The baby held by the woman.
+k35blcO8Z7k_90000_100000,k35blcO8Z7k_90000_100000_baby_1,test_u,0,The object making the shortest sound duration.
+lCTH25Jdk-A_27000_37000,lCTH25Jdk-A_27000_37000_tiger_1,test_u,0,The object making the loudest sound.
+m_TDmJDVh0o_307000_317000,m_TDmJDVh0o_307000_317000_emergency-car_1,test_u,0,The object making the loudest sound.
+nT0PHpAlvys_123000_133000,nT0PHpAlvys_123000_133000_mower_1,test_u,0,The object that keeps making sound at all times.
+nT0PHpAlvys_313000_323000,nT0PHpAlvys_313000_323000_mower_1,test_u,0,The object that keeps making sound at all times.
+nT0PHpAlvys_40000_50000,nT0PHpAlvys_40000_50000_mower_1,test_u,0,The sounding object.
+nT0PHpAlvys_40000_50000,nT0PHpAlvys_40000_50000_mower_2,test_u,0,The object that keeps making sound at all times.
+nT0PHpAlvys_65000_75000,nT0PHpAlvys_65000_75000_mower_1,test_u,0,The sounding object.
+oAPd5djYx0c_60000_70000,oAPd5djYx0c_60000_70000_truck_1,test_u,1,The truck making no sound.
+oSMvY0tErC4_100000_110000,oSMvY0tErC4_100000_110000_flute_1,test_u,3,The flute played by a woman.
+oSMvY0tErC4_100000_110000,oSMvY0tErC4_100000_110000_tuba_2,test_u,1,The object rhythm is faster over the time.
+oSMvY0tErC4_50000_60000,oSMvY0tErC4_50000_60000_flute_1,test_u,3,The sounding object near the woman.
+oSMvY0tErC4_50000_60000,oSMvY0tErC4_50000_60000_tuba_1,test_u,1,The sounding object on the right of the flute.
+p8f-dwURY20_18000_28000,p8f-dwURY20_18000_28000_tiger_1,test_u,1,The first object to make a sound.
+q6Vwbg3SOSc_300000_310000,q6Vwbg3SOSc_300000_310000_gun_1,test_u,3,The first object to make a sound.
+q6Vwbg3SOSc_90000_100000,q6Vwbg3SOSc_90000_100000_gun_1,test_u,3,The gun being held by a man.
+q_EiqTTmLaI_90000_100000,q_EiqTTmLaI_90000_100000_truck_1,test_u,3,The truck driven by a man in yellow.
+r77M_VroAlc_111000_121000,r77M_VroAlc_111000_121000_baby_2,test_u,0,The object making the shortest sound duration.
+r77M_VroAlc_111000_121000,r77M_VroAlc_111000_121000_dog_1,test_u,1,The first dog appearing in the video.
+r77M_VroAlc_182000_192000,r77M_VroAlc_182000_192000_baby_2,test_u,0,The sounding object on the right of the man.
+rV7tIQMI02o_71000_81000,rV7tIQMI02o_71000_81000_truck_1,test_u,0,The sounding object.
+rV7tIQMI02o_71000_81000,rV7tIQMI02o_71000_81000_truck_3,test_u,0,The object making the loudest sound.
+rooPPLtK9pg_0_10000,rooPPLtK9pg_0_10000_sheep_1,test_u,0,The sounding object.
+sp69Ndnhdbk_98000_108000,sp69Ndnhdbk_98000_108000_mower_1,test_u,0,The sounding object.
+uFcZhH_wFbs_133000_143000,uFcZhH_wFbs_133000_143000_lion_1,test_u,0,The object making the loudest sound.
+uFcZhH_wFbs_94000_104000,uFcZhH_wFbs_94000_104000_lion_1,test_u,1,The sounding object.
+vll33KEoCcc_34000_44000,vll33KEoCcc_34000_44000_sheep_1,test_u,0,The sounding object.
+wfkdedUW-dk_50000_60000,wfkdedUW-dk_50000_60000_mower_1,test_u,0,The sounding object.
+wfkdedUW-dk_85000_95000,wfkdedUW-dk_85000_95000_mower_1,test_u,1,The object making the loudest sound.
+wzLnvUzvdFY_43000_53000,wzLnvUzvdFY_43000_53000_tuba_1,test_u,1,The tuba being played by a man.

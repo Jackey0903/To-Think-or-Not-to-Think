@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Datasets and annotations that should be downloaded separately
+/REFAVS/media/
+/REFAVS/media_cross/
+/REFAVS/gt_mask/
+/REFAVS/*.tar*
+/REFAVS/.*
+/R2AVSBench/RefThinker_instruction_tuning_set.json
+/R2AVSBench/.cache/
+
+# Model weights and checkpoints
+/pretrained_weights/*
+!/pretrained_weights/README.md
+!/pretrained_weights/.gitkeep
+/results_real/*
+!/results_real/README.md
+!/results_real/.gitkeep
+/checkpoints
+/gdino_checkpoints
+/grounding_dino
+/sam2
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Generated outputs
+/budget_results/
+/mechanistic_results/
+/logs/
+/results/
+/results_real_tmp_for_reproduce/
+/test/
+*.log
+*.pid
+*.running
+
+# Third-party source trees installed locally
+/ground_segment_scripts/Grounded-SAM-2/
+

@@ -1,0 +1,401 @@
+vid,uid,split,fid,exp
+-3ABOVeVmpU_136000_146000,-3ABOVeVmpU_136000_146000_piano_1,test_s,1,The stationary item whose keyed input produces a vocalist's melodic accompaniment.
+-FfYTvz5tFE_96000_106000,-FfYTvz5tFE_96000_106000_ukulele_1,test_s,1,The handheld object whose manipulation evokes characteristic Hawaiian melodies.
+-wb3JWo4qTg_380000_390000,-wb3JWo4qTg_380000_390000_couch_1,test_s,1,The item visually serving as a shared seating platform for the audio discourse.
+2GSMIkobu5A_50000_60000,2GSMIkobu5A_50000_60000_harp_1,test_s,0,The vertically-oriented object whose strings produce cascading melodies resembling a plucked waterfall.
+2QAev97bk0c_75000_85000,2QAev97bk0c_75000_85000_pipa_1,test_s,5,The plucked object whose higher register complements the mandolin's lower tones.
+2QAev97bk0c_75000_85000,2QAev97bk0c_75000_85000_woman_1,test_s,0,"The one producing plucked, high-pitched notes reminiscent of ancient Asian music."
+2QKv1iBsTJM_190000_200000,2QKv1iBsTJM_190000_200000_man_1,test_s,1,"The seated entity producing sustained, resonant tones reminiscent of traditional Chinese music."
+2QKv1iBsTJM_190000_200000,2QKv1iBsTJM_190000_200000_table_1,test_s,2,"The central, silent item displaying traditional offerings, contrasting with the audible performance."
+2VqnoV67t0g_290000_300000,2VqnoV67t0g_290000_300000_marimba_1,test_s,0,The struck object whose resonating tones harmonize with the adjacent wind instrument.
+2uOqzDrthyA_20000_30000,2uOqzDrthyA_20000_30000_clock_1,test_s,1,The object whose rhythmic ticking evokes the passage of time in a bygone era.
+2wmxck5D9Vw_102000_112000,2wmxck5D9Vw_102000_112000_cello_1,test_s,1,The lower-register bowed string item accompanying the higher-pitched melodies.
+45oaGY3mzlQ_5000_15000,45oaGY3mzlQ_5000_15000_cello_1,test_s,0,The visually largest stringed entity whose rhythmic vibrations anchor the melody.
+4DCxlVTWN8g_3000_13000,4DCxlVTWN8g_3000_13000_guzheng_1,test_s,1,The object whose plucked strings evoke ancient Chinese melodies.
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_chair_1,test_s,0,"The object beneath the bassoonist, visually stable yet audibly absent."
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_chair_3,test_s,3,The object supporting the musician playing the grand piano.
+4GUrjmIZcIQ_82000_92000,4GUrjmIZcIQ_82000_92000_piano_1,test_s,2,The stationary object whose manipulated components harmonize with the bassoon's melody.
+4HXvK9zcoyk_115000_125000,4HXvK9zcoyk_115000_125000_guitar_1,test_s,1,"The object held by the seated person, producing melodic accompaniment to the singing."
+4HXvK9zcoyk_70000_80000,4HXvK9zcoyk_70000_80000_bass_2,test_s,3,"The silent, visually colorful stringed item, not currently contributing to the audio narrative."
+4HXvK9zcoyk_70000_80000,4HXvK9zcoyk_70000_80000_bass_3,test_s,3,"The colorful, upright object next to the person not playing an instrument."
+4YLjVRZHoZI_1750000_1760000,4YLjVRZHoZI_1750000_1760000_handpan_2,test_s,4,"The resonant metallic object played with gentle taps, harmonizing with the stringed instrument."
+4YLjVRZHoZI_1750000_1760000,4YLjVRZHoZI_1750000_1760000_violin_1,test_s,9,"The object held under the chin, creating a high-pitched melody distinct from the other instrument."
+4bg9UqOSeBo_160000_170000,4bg9UqOSeBo_160000_170000_dog_1,test_s,2,"The small, furry entity trained to produce vocalizations on command."
+4bg9UqOSeBo_90000_100000,4bg9UqOSeBo_90000_100000_dog_1,test_s,0,The furry entity visually demonstrating learned human-like social interaction.
+4k63MOSjOBw_21000_31000,4k63MOSjOBw_21000_31000_violin_1,test_s,0,The object whose frictional manipulation near the chin creates the melodic high notes.
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_chair_1,test_s,6,The object on the left supports a man who is playing some music.
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_chair_2,test_s,4,"The object support the individual not wearing ripped jeans, keeping static"
+4rerQA8KMzM_10000_20000,4rerQA8KMzM_10000_20000_guitar_1,test_s,1,"The six-stringed item held by the seated man, producing a lower-register harmony."
+50Z4O0mzAXg_150000_160000,50Z4O0mzAXg_150000_160000_guitar_1,test_s,2,The six-stringed object producing a rhythmic counterpoint to the elongated resonating counterpart.
+56_Unf49ZyM_27000_37000,56_Unf49ZyM_27000_37000_pipa_1,test_s,0,"The plucked object held by the seated person, reminiscent of ancient Chinese court music."
+56_Unf49ZyM_50000_60000,56_Unf49ZyM_50000_60000_pipa_1,test_s,0,"The plucked object resembling a pipa, its higher register complementing the zither's resonance."
+5FYG_Wtet7U_120000_130000,5FYG_Wtet7U_120000_130000_violin_1,test_s,0,The bowed object whose melody harmonizes with the resonant metallic sounds nearby.
+6WUjWMuoEhM_10000_20000,6WUjWMuoEhM_10000_20000_couch_1,test_s,1,"The item occupied by the person being subjected to a warm, artificial breeze."
+6WUjWMuoEhM_10000_20000,6WUjWMuoEhM_10000_20000_hair-dryer_1,test_s,0,"The object whose heated airflow disrupts the reader's focus, implied by their facial cues."
+6aeLYISKUw8_50000_60000,6aeLYISKUw8_50000_60000_vacuum-cleaner_1,test_s,0,The object whose continuous hum suggests active indoor air displacement.
+6oHMyrDEtmM_90000_100000,6oHMyrDEtmM_90000_100000_handpan_1,test_s,3,The resonant metallic object played by the person not holding glowing sticks.
+6tTLxIKVtfE_26000_36000,6tTLxIKVtfE_26000_36000_flute_1,test_s,2,"The elongated object whose controlled air vibrations create a high-pitched melody, resembling traditional woodwind sounds."
+6xzc5Y-78-s_100000_110000,6xzc5Y-78-s_100000_110000_vacuum-cleaner_1,test_s,0,"The disc-shaped object autonomously navigating, emitting a subtle whirring reminiscent of machinery."
+79T0FclnIDw_0_10000,79T0FclnIDw_0_10000_couch_1,test_s,2,The largest upholstered item providing a typical living room affordance.
+79T0FclnIDw_0_10000,79T0FclnIDw_0_10000_couch_2,test_s,3,"The item typically used for relaxation, not involved in the present interaction."
+79w-8fTYazw_15000_25000,79w-8fTYazw_15000_25000_ukulele_1,test_s,1,"The object whose manipulation evokes a familiar island rhythm, smaller than its six-stringed counterpart."
+7RHm25E9qro_4000_14000,7RHm25E9qro_4000_14000_guitar_1,test_s,1,The object whose rhythmic vibrations harmonize with the neck-mounted metallic device.
+7pEu6_bG0Kc_10000_20000,7pEu6_bG0Kc_10000_20000_boat_1,test_s,0,"The object whose rhythmic hum suggests displacement of water, yet lacks visible paddles."
+7pEu6_bG0Kc_123000_133000,7pEu6_bG0Kc_123000_133000_boat_1,test_s,0,The entity whose consistent forward motion generates rhythmic water splashes.
+7pEu6_bG0Kc_50000_60000,7pEu6_bG0Kc_50000_60000_boat_1,test_s,0,The object whose consistent propeller rhythm contrasts with the chaotic splashing sounds.
+7pNykt6zACc_275000_285000,7pNykt6zACc_275000_285000_chair_1,test_s,1,The object supporting the musician creating the highest-pitched melody.
+7pWa_kcAoMg_49000_59000,7pWa_kcAoMg_49000_59000_saxophone_1,test_s,0,The object whose brassy timbre contrasts the deeper resonance of its nearby counterpart.
+872Lwp3MOro_6000_16000,872Lwp3MOro_6000_16000_couch_1,test_s,0,The stationary item whose presence supports the person being groomed.
+872Lwp3MOro_6000_16000,872Lwp3MOro_6000_16000_hair-dryer_1,test_s,1,The electrically powered object used to expedite moisture evaporation from hair.
+89wbeFGWzkY_415000_425000,89wbeFGWzkY_415000_425000_man_1,test_s,1,The entity rhythmically manipulating an instrument reminiscent of street performers
+8CNsNi5mmSE_58000_68000,8CNsNi5mmSE_58000_68000_pipa_1,test_s,0,"The plucked object, visually resembling a pear, with a bright, resonant timbre, distinct from the other."
+8cmMa2PUnvQ_30000_40000,8cmMa2PUnvQ_30000_40000_chair_1,test_s,1,"The object beneath the musician, visually static yet crucial for the performance."
+948s7w-mFs8_457000_467000,948s7w-mFs8_457000_467000_razor_1,test_s,0,"The buzzing object eliminating morning stubble, reflecting a common ritual."
+9RjnpAQXLk8_60000_70000,9RjnpAQXLk8_60000_70000_harp_1,test_s,0,The triangular object played by plucking its vertically aligned strings.
+9ZQ-T83pfWk_65000_75000,9ZQ-T83pfWk_65000_75000_flute_1,test_s,2,The elongated object whose subtle breath-driven vibrations create high-pitched melodies harmonizing with the piano.
+9scT0XNxmVw_330000_340000,9scT0XNxmVw_330000_340000_couch_1,test_s,1,The item visually supporting the person verbally expressing past experiences.
+BRAQLY85x5U_75000_85000,BRAQLY85x5U_75000_85000_chair_1,test_s,9,"The object enabling seated harp performance, visually distinct from the main instrument."
+BSkcM4ScyEs_150000_160000,BSkcM4ScyEs_150000_160000_couch_1,test_s,0,"The large, soft item visually supporting the musician, distinct from the sound source."
+BSkcM4ScyEs_150000_160000,BSkcM4ScyEs_150000_160000_handpan_1,test_s,2,"The metallic object whose subtle dents produce ethereal, echoing tones."
+Bq_d0kJRs4k_136000_146000,Bq_d0kJRs4k_136000_146000_hair-dryer_1,test_s,1,"The object mimicking a gentle breeze, causing visible fur displacement."
+CCFZT2_TJr0_15000_25000,CCFZT2_TJr0_15000_25000_piano_1,test_s,4,The object whose hammered strings harmonize with the woodwind's melody.
+CEyVVscBBg8_13000_23000,CEyVVscBBg8_13000_23000_cello_1,test_s,0,The lower-pitched stringed item played by the seated performer.
+CEyVVscBBg8_13000_23000,CEyVVscBBg8_13000_23000_violin_1,test_s,1,"The object held by the person seated, creating a higher pitch than its counterpart."
+CVA8LpBW3Sc_76000_86000,CVA8LpBW3Sc_76000_86000_cello_1,test_s,1,The bowed object whose deep vibrations harmonize with higher-pitched wind sounds.
+CVA8LpBW3Sc_76000_86000,CVA8LpBW3Sc_76000_86000_saxophone_1,test_s,0,The object whose brassy timbre harmonizes with the deeper strings of its counterpart.
+CjQmcO_Q5d8_42000_52000,CjQmcO_Q5d8_42000_52000_clarinet_1,test_s,0,The handheld object whose controlled air vibrations create a melodic counterpoint to the piano.
+DB_SkDdL_cA_180000_190000,DB_SkDdL_cA_180000_190000_handpan_1,test_s,1,"The metallic object whose gentle, resonant tones resemble those of ancient eastern instruments."
+DB_SkDdL_cA_180000_190000,DB_SkDdL_cA_180000_190000_man_1,test_s,0,The entity whose subtle movements evoke ethereal melodies from a visually resonant steel object.
+EKM1wu2vXy4_26000_36000,EKM1wu2vXy4_26000_36000_ukulele_1,test_s,1,"The object whose rhythmic manipulation evokes a cheerful, tropical ambiance."
+ETmo71vP7tA_20000_30000,ETmo71vP7tA_20000_30000_piano_1,test_s,0,The larger percussive instrument played by the person seated further left.
+EXjmfFyOAqA_30000_40000,EXjmfFyOAqA_30000_40000_flute_1,test_s,2,The elongated metallic object whose vibrations create higher-pitched notes than its wooden counterpart.
+EXjmfFyOAqA_30000_40000,EXjmfFyOAqA_30000_40000_ukulele_1,test_s,3,The lower-pitched object whose rhythmic strumming complements the higher-pitched wind instrument
+EuU2PWB1t2g_20000_30000,EuU2PWB1t2g_20000_30000_cello_1,test_s,1,The wooden object whose bowed strings complement the nearby percussive sounds.
+EzPcuNoSHMM_0_10000,EzPcuNoSHMM_0_10000_clock_1,test_s,0,The object whose rhythmic ticking evokes nostalgia for pre-digital timekeeping.
+EzPcuNoSHMM_0_10000,EzPcuNoSHMM_0_10000_couch_1,test_s,1,"The backdrop where one would relax during daylight, visually distinct from the ticking sound source."
+FBsYnc6YtWM_190000_200000,FBsYnc6YtWM_190000_200000_boat_1,test_s,4,The entity whose consistent drone masks the rhythmic splashing at its rear.
+FBsYnc6YtWM_361000_371000,FBsYnc6YtWM_361000_371000_boat_1,test_s,0,The object whose consistent forward motion generates rhythmic water displacement patterns.
+G4ub_r9kYX0_26000_36000,G4ub_r9kYX0_26000_36000_girl_1,test_s,0,The one whose vocalizations harmonize with the rhythmic plucking of the held object.
+GG-PF_JxeW4_1640000_1650000,GG-PF_JxeW4_1640000_1650000_guitar_1,test_s,2,The object whose rhythmic manipulation accompanies the female vocals.
+GG-PF_JxeW4_1640000_1650000,GG-PF_JxeW4_1640000_1650000_piano_1,test_s,1,The larger percussive instrument played by the performer wearing a dress.
+HtsvslSafoA_541000_551000,HtsvslSafoA_541000_551000_boat_1,test_s,0,The object whose consistent engine hum contrasts with the intermittent slapping sounds of water.
+J4VeWujsLJg_32000_42000,J4VeWujsLJg_32000_42000_keyboard_1,test_s,0,The input device whose rhythmic clicks cause the on-screen cursor's motion.
+JStvWj9GKhQ_14000_24000,JStvWj9GKhQ_14000_24000_cello_1,test_s,0,"The object producing lower register notes, visually larger than its musical counterpart."
+JVjDa0NmfeE_173000_183000,JVjDa0NmfeE_173000_183000_cat_1,test_s,0,The perched entity on the right whose plaintive cry contrasts its calm visual demeanor.
+JVjDa0NmfeE_173000_183000,JVjDa0NmfeE_173000_183000_cat_2,test_s,1,The left perched object whose sudden swift motion initiates an exchange of high-pitched calls.
+J_r9nOIoozw_133000_143000,J_r9nOIoozw_133000_143000_woman_1,test_s,3,"The one vocally leading the musical piece, with rhythmic finger movements on strings."
+J_r9nOIoozw_133000_143000,J_r9nOIoozw_133000_143000_woman_1,test_s,3,The one whose vocalizations harmonize with the other's stringed instrument sounds.
+JgkUToh3HeY_49000_59000,JgkUToh3HeY_49000_59000_guzheng_1,test_s,3,"The object played by the person in red, reminiscent of ancient Chinese court music"
+JgkUToh3HeY_49000_59000,JgkUToh3HeY_49000_59000_pipa_1,test_s,0,The pear-shaped object whose plucked strings evoke ancient Chinese melodies.
+JlMeXmoMEEM_35000_45000,JlMeXmoMEEM_35000_45000_flute_1,test_s,2,"The elongated object whose manipulation by breath creates a high-pitched melodic line, harmonizing with stringed accompaniment."
+JlMeXmoMEEM_35000_45000,JlMeXmoMEEM_35000_45000_ukulele_1,test_s,3,The lower-pitched rhythmic accompaniment to the higher-pitched melodic instrument.
+LFs44HbaTr8_46000_56000,LFs44HbaTr8_46000_56000_guzheng_1,test_s,1,"The plucked object evoking ancient Chinese melodies, distinct from its pear-shaped companion."
+LIUU1ZmIljc_270000_280000,LIUU1ZmIljc_270000_280000_marimba_1,test_s,5,"The resonating object visually resembling xylophone, yet positioned beside a grand piano."
+LOFX2UVozf8_80000_90000,LOFX2UVozf8_80000_90000_couch_1,test_s,0,"The stationary entity offering support, juxtaposed with the resonant metallic sounds."
+LdB5pW9c_N4_477000_487000,LdB5pW9c_N4_477000_487000_sitar_1,test_s,0,The plucked object producing evocative melodies characteristic of Hindustani traditions.
+LxIi6zy5zJ4_0_10000,LxIi6zy5zJ4_0_10000_cat_1,test_s,0,The entity exhibiting typical feline territorial behavior towards a passive companion.
+MDyjY3uiWp0_273000_283000,MDyjY3uiWp0_273000_283000_saw_1,test_s,0,"The handheld object whose rapid, toothed edge motion creates airborne wood particles."
+MDyjY3uiWp0_297000_307000,MDyjY3uiWp0_297000_307000_saw_1,test_s,0,The handheld item whose whirring precedes wood-dust's visual release.
+MDyjY3uiWp0_297000_307000,MDyjY3uiWp0_297000_307000_saw_4,test_s,0,"The handheld object whose whirring sound indicates rapid, toothed motion against wood."
+MDyjY3uiWp0_354000_364000,MDyjY3uiWp0_354000_364000_saw_1,test_s,1,"The handheld tool near the log, gripped but inactive, featuring a potential cutting edge."
+MDyjY3uiWp0_354000_364000,MDyjY3uiWp0_354000_364000_saw_2,test_s,2,"The item described as a ""Husky Pro Arborist"", not held by person and yet remains audibly silent."
+MFn93Sqq23g_10000_20000,MFn93Sqq23g_10000_20000_guitar_1,test_s,2,"The larger, unplayed stringed item mounted on the wall."
+NDq6ZtDNvVY_200000_210000,NDq6ZtDNvVY_200000_210000_couch_1,test_s,0,"The item adjacent to the performer, with blue striped flyers and two pillows on it."
+NDq6ZtDNvVY_200000_210000,NDq6ZtDNvVY_200000_210000_handpan_1,test_s,1,"The metallic object whose gentle touches evoke otherworldly, ethereal melodies."
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_cello_1,test_s,2,The bowed stringed item producing the lowest notes in this orchestrated piece.
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_saxophone_1,test_s,1,"The item held diagonally, creating a low tone harmonizing with the stringed instrument."
+OFgcrlxku9g_160000_170000,OFgcrlxku9g_160000_170000_saxophone_2,test_s,0,The object whose brassy timbre rhythmically punctuates the cello's sustained notes.
+OGCyzmaM_kE_10000_20000,OGCyzmaM_kE_10000_20000_piano_1,test_s,4,"The silent, visually-prominent object whose absence would alter the audible narrative."
+OGCyzmaM_kE_10000_20000,OGCyzmaM_kE_10000_20000_violin_1,test_s,5,"The object held by the person wearing pink dress whose higher-pitched melodies intertwine with the longer, metallic instrument's notes."
+OMYuLiqSUxE_180000_190000,OMYuLiqSUxE_180000_190000_clarinet_1,test_s,0,"The object whose keyed vibrations evoke a somber, reflective ambiance within the visually evident venue."
+OMYuLiqSUxE_30000_40000,OMYuLiqSUxE_30000_40000_clarinet_1,test_s,0,The object whose keyed holes produce melodic sounds within a likely sacred space.
+OPVEPq_r-vk_211000_221000,OPVEPq_r-vk_211000_221000_cello_1,test_s,0,"The object whose low, resonant notes contrast with the higher-pitched woodwind sounds nearby."
+OPVEPq_r-vk_211000_221000,OPVEPq_r-vk_211000_221000_saxophone_1,test_s,1,The object whose keyed tone harmonizes with the bowed string's resonance.
+OlZDfX8gWgU_59000_69000,OlZDfX8gWgU_59000_69000_flute_1,test_s,0,The object whose simple structure produces sounds reminiscent of ancient folk melodies.
+PL-qv34uGz4_110000_120000,PL-qv34uGz4_110000_120000_vacuum-cleaner_1,test_s,0,"The object whose cyclic hum resembles a distant aircraft, yet visually grounded."
+Pe1LuVFTczE_106000_116000,Pe1LuVFTczE_106000_116000_woman_1,test_s,1,The individual evoking a pipa's distinct timbre through rhythmic finger movements.
+Pe1LuVFTczE_358000_368000,Pe1LuVFTczE_358000_368000_pipa_1,test_s,3,"The plucked object resembling a lute, its higher register harmonizing with a Western counterpart."
+Pgn_5eHt1Xw_78000_88000,Pgn_5eHt1Xw_78000_88000_guzheng_1,test_s,0,The object whose plucked strings evoke traditional East Asian melodies.
+Ptm0GYEf4AI_40000_50000,Ptm0GYEf4AI_40000_50000_man_1,test_s,0,The entity rhythmically wielding a tool known for forestry tasks in earlier eras.
+Ptm0GYEf4AI_40000_50000,Ptm0GYEf4AI_40000_50000_saw_1,test_s,1,The elongated object whose rhythmic motion against wood creates a distinct rasping sound.
+QHcG-FDM75Q_113000_123000,QHcG-FDM75Q_113000_123000_cello_1,test_s,1,"The object producing lower-register notes, visually larger than its melodic counterpart."
+QNiHU290owU_55000_65000,QNiHU290owU_55000_65000_chair_1,test_s,0,"The dark, four-legged support standing silently to the side, in stark contrast to the resonating vibrations filling the hall."
+QfQGMj0Mpes_25000_35000,QfQGMj0Mpes_25000_35000_man_1,test_s,0,"The entity whose rhythmic finger movements produce a cheerful, island-themed melody."
+RMF6sp6tWHM_100000_110000,RMF6sp6tWHM_100000_110000_couch_1,test_s,1,"The item beneath the musician, visually resembling an upholstered indoor relaxation platform."
+Ru7m8PyMlVM_120000_130000,Ru7m8PyMlVM_120000_130000_clock_1,test_s,2,The object whose rhythmic ticking evokes the passage of time in classic literature.
+SFVZ2OklsVM_2715000_2725000,SFVZ2OklsVM_2715000_2725000_accordion_1,test_s,3,The handheld bellows-driven instrument rhythmically accompanying the guitar's melody.
+SFVZ2OklsVM_2715000_2725000,SFVZ2OklsVM_2715000_2725000_couch_1,test_s,4,"The inanimate object visually associated with relaxation, positioned near the musical performers."
+S_NJKy7Aoto_213000_223000,S_NJKy7Aoto_213000_223000_tabla_1,test_s,1,"The percussive element complementing the melodic stringed item, reflecting Hindustani music traditions."
+S_NJKy7Aoto_266000_276000,S_NJKy7Aoto_266000_276000_sitar_1,test_s,0,The plucked object evoking traditional Indian musical aesthetics.
+S_NJKy7Aoto_266000_276000,S_NJKy7Aoto_266000_276000_tabla_1,test_s,1,The percussive object played by the person not holding the sitar.
+T9K1uy-G5qA_110000_120000,T9K1uy-G5qA_110000_120000_violin_1,test_s,0,"The object held by the standing person, producing higher-pitched notes than its counterpart."
+TCcD-vOUtNc_99000_109000,TCcD-vOUtNc_99000_109000_chair_2,test_s,10,"The object supporting the musician on the right position, visually distinct from counterparts."
+TCcD-vOUtNc_99000_109000,TCcD-vOUtNc_99000_109000_harp_3,test_s,0,"The instrument played by the person in purple evokes celestial melodies."
+U1dZX1ReD88_48000_58000,U1dZX1ReD88_48000_58000_saxophone_1,test_s,1,"The wind instrument held vertically, producing a distinct, reedy timbre."
+U1pyRmKgnrM_142000_152000,U1pyRmKgnrM_142000_152000_razor_1,test_s,1,The buzzing object alleviating the discomfort caused by sharp blades.
+URUkK0bzULI_20000_30000,URUkK0bzULI_20000_30000_marimba_1,test_s,1,"The object whose wooden planks, when struck, evoke tropical vibes."
+URZyjoh9lbc_500000_510000,URZyjoh9lbc_500000_510000_chair_1,test_s,1,"The wide, encompassing structure, unlike the spoken words filling the air, yet visually offers a silent invitation for repose once the vocalizations cease."
+URZyjoh9lbc_560000_570000,URZyjoh9lbc_560000_570000_chair_1,test_s,1,An object near a bright window on which the speaker can rest in future.
+UYUH7Jmfp3g_76000_86000,UYUH7Jmfp3g_76000_86000_tabla_1,test_s,1,The object whose rhythmic manipulation complements the nearby stringed entity's melody.
+V9KZ5FCtG9A_15000_25000,V9KZ5FCtG9A_15000_25000_bass_1,test_s,2,"The rhythmically vibrating object held by the left positioned person, creating low-frequency musical support."
+VbEvfbj_IxU_117000_127000,VbEvfbj_IxU_117000_127000_violin_1,test_s,1,"The brown object whose high-pitched melody harmonizes with the lower, resonant tones of its counterpart."
+VkcYchOGibc_20000_30000,VkcYchOGibc_20000_30000_guitar_1,test_s,0,The wooden object whose human-manipulated strings evoke a familiar folk melody.
+WSy8ay1avew_60000_70000,WSy8ay1avew_60000_70000_chair_1,test_s,2,The inanimate object whose stillness contrasts with the rhythmic sounds it supports.
+WkbCFN97-NM_126000_136000,WkbCFN97-NM_126000_136000_bass_1,test_s,2,The object held by a person wearing black and white plaid shirt.
+X-V2G7R5TSo_15000_25000,X-V2G7R5TSo_15000_25000_guzheng_1,test_s,0,"The horizontally positioned object whose plucked strings evoke ancient Chinese melodies"
+X6U476H2pWw_20000_30000,X6U476H2pWw_20000_30000_clock_1,test_s,0,"The object whose regular ticking ceases, replaced by a sharp, metallic resonance."
+YAW2vMKV9pw_50000_60000,YAW2vMKV9pw_50000_60000_keyboard_1,test_s,0,The object whose rhythmic tappings create a digital narrative on the adjacent screen.
+ZR3vnlhJuSE_101000_111000,ZR3vnlhJuSE_101000_111000_bass_1,test_s,0,"The object played by the person on the stage, generating the prominent low-frequency melody."
+ZU0JSxWk1Po_2000_12000,ZU0JSxWk1Po_2000_12000_guzheng_1,test_s,1,The object played alongside a pear-shaped instrument common in Chinese opera
+_ta7b5gmhJs_120000_130000,_ta7b5gmhJs_120000_130000_handpan_1,test_s,0,The metallic UFO-shaped object producing otherworldly resonant tones.
+aBmzZJZ_M8Y_9000_19000,aBmzZJZ_M8Y_9000_19000_clarinet_1,test_s,1,The object whose keyed vibrations harmonize with the piano's deeper notes.
+aZenX0O9A7A_91000_101000,aZenX0O9A7A_91000_101000_bass_2,test_s,0,"The object producing rhythmic low-frequency sounds, visually similar to a guitar but larger."
+bELyeHxF7eA_42000_52000,bELyeHxF7eA_42000_52000_violin_1,test_s,1,"The object held like a cello, yet producing higher-pitched, folk-like melodies."
+bcGfmy0X-CQ_30000_40000,bcGfmy0X-CQ_30000_40000_chair_1,test_s,0,The unoccupied item typically paired with the visually nearest easel.
+bcGfmy0X-CQ_30000_40000,bcGfmy0X-CQ_30000_40000_chair_3,test_s,1,"The unoccupied object supporting the person who is playing an instrument"
+c3enHqIWN3c_20000_30000,c3enHqIWN3c_20000_30000_ukulele_1,test_s,0,"The object whose Hawaiian vibes contrast with its compact form, producing rhythmic plucks."
+cIbVu0ixSAo_302000_312000,cIbVu0ixSAo_302000_312000_violin_1,test_s,0,The higher-pitched bowed stringed item accompanying the cello's deeper notes in the chapel.
+dRa7aBGnStU_82000_92000,dRa7aBGnStU_82000_92000_violin_1,test_s,0,The wooden object whose manipulation by the seated person creates the highest-pitched melody
+dUcOkRkz6bA_387000_397000,dUcOkRkz6bA_387000_397000_bass_1,test_s,3,"The object played by a player wearing a pair of red headphones around his neck."
+dUcOkRkz6bA_387000_397000,dUcOkRkz6bA_387000_397000_man_1,test_s,6,The individual who are playing an instructment not yellow.
+dVa49WwXzr8_481000_491000,dVa49WwXzr8_481000_491000_marimba_1,test_s,1,The resonating object whose metallic timbre harmonizes with the adjacent stringed one.
+dk_xhLkWyDo_30000_40000,dk_xhLkWyDo_30000_40000_piano_1,test_s,1,The item whose keyed input by the performer generates the accompanying melody.
+ehlPuuiNEd8_376000_386000,ehlPuuiNEd8_376000_386000_guzheng_1,test_s,2,The centrally placed object whose plucked strings evoke ancient Chinese melodies.
+f0jKjIOFzAY_225000_235000,f0jKjIOFzAY_225000_235000_saxophone_1,test_s,0,"The metallic object held diagonally, creating a distinct, sustained lower-register melody."
+f0jKjIOFzAY_243000_253000,f0jKjIOFzAY_243000_253000_cello_1,test_s,1,The object whose bowed strings produce the lower register harmony in this duet.
+f0jKjIOFzAY_243000_253000,f0jKjIOFzAY_243000_253000_saxophone_1,test_s,0,"The object held and manipulated, creating a distinct tonal variation compared to the stringed counterpart."
+jj1UxRTBaNw_210000_220000,jj1UxRTBaNw_210000_220000_piano_1,test_s,0,"The object producing a tempered scale, harmonizing with the distinct timbre of a plucked string instrument."
+kF2y7RIC7-Y_385000_395000,kF2y7RIC7-Y_385000_395000_ukulele_1,test_s,1,"The object whose manipulation evokes familiar island rhythms, smaller than its six-stringed relatives."
+kLuuxnijxa0_432000_442000,kLuuxnijxa0_432000_442000_boat_1,test_s,0,"The object whose sharp, pointed front cuts through the water's surface, creating a visible frothy trail."
+kNVFsDnePrM_30000_40000,kNVFsDnePrM_30000_40000_ukulele_1,test_s,1,The object whose melodic plucking evokes a typical Hawaiian soundscape.
+kNVFsDnePrM_30000_40000,kNVFsDnePrM_30000_40000_woman_1,test_s,0,"The entity whose rhythmic finger movements produce a cheerful, island-style melody."
+l5bjljDHFK0_67000_77000,l5bjljDHFK0_67000_77000_guzheng_1,test_s,0,The plucked object evoking ancient Chinese musical traditions.
+lcOP60uXMeI_198000_208000,lcOP60uXMeI_198000_208000_man_1,test_s,2,The hunded over item whose rhythmic actions produce the lowest-frequency melodic component.
+lcOP60uXMeI_20000_30000,lcOP60uXMeI_20000_30000_piano_1,test_s,6,The object whose hammered strings harmonize with the bowed and blown counterparts.
+lzzMHoi3r2w_50000_60000,lzzMHoi3r2w_50000_60000_marimba_1,test_s,2,The item whose resonating wooden slats evoke a Hedwig's theme-like melody.
+mUN93MlvX64_42000_52000,mUN93MlvX64_42000_52000_piano_1,test_s,6,The stationary object whose role is to harmonically complement the woodwind's melody.
+mqB05HNR03g_630000_640000,mqB05HNR03g_630000_640000_table_1,test_s,0,"The central object facilitating conversation, reflecting typical group discussion settings."
+oP550FUJxUA_16000_26000,oP550FUJxUA_16000_26000_tabla_1,test_s,1,"The percussive item played by the person in patterned clothing, complementing the melodic stringed one."
+oP550FUJxUA_97000_107000,oP550FUJxUA_97000_107000_tabla_1,test_s,1,"The percussive item played by the person on the left, resembling membranophones used in Hindustani classical music."
+oRSCL3149fI_146000_156000,oRSCL3149fI_146000_156000_piano_1,test_s,0,The stationary object whose hammered strings harmonize with the woodwind's melody.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_girl_1,test_s,0,The one with a long hair vocally singing a song while rhythmically manipulating an item.
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_man_1,test_s,1,"The seated entity whose rhythmic finger movements produce melodic sounds, harmonizing with a smaller counterpart."
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_ukulele_1,test_s,3,"The smaller of the two items, whose rhythmic plucking accompanies the girl's singing."
+oVK2QsKq8ak_186000_196000,oVK2QsKq8ak_186000_196000_ukulele_2,test_s,2,"The smaller of two visually similar items, producing a higher-pitched rhythmic sound."
+oaYIWYXFMqY_70000_80000,oaYIWYXFMqY_70000_80000_bass_1,test_s,0,"The four-stringed item held by the seated person, keeping silent."
+oaYIWYXFMqY_70000_80000,oaYIWYXFMqY_70000_80000_flute_1,test_s,4,"The elongated object whose blowing creates a high-pitched, breathy melody, typical of Andean music."
+oyi5pKPwz9Q_3000_13000,oyi5pKPwz9Q_3000_13000_violin_1,test_s,1,"The object held like a cello, yet producing higher-pitched, bowed notes."
+p5uRwtw7S3E_243000_253000,p5uRwtw7S3E_243000_253000_cello_2,test_s,1,The lower-register melodic counterpart to the woodwind instrument's higher notes.
+pG1aSAUbf4I_150000_160000,pG1aSAUbf4I_150000_160000_handpan_3,test_s,1,"The UFO-shaped object producing ethereal, resonant tones reminiscent of Eastern music."
+pIp-fSFvipo_235000_245000,pIp-fSFvipo_235000_245000_vacuum-cleaner_1,test_s,0,"The item whose modular components are being visually assembled, making sounds like noise."
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_cello_1,test_s,1,The visually prominent stringed entity harmonizing with the saxophone's higher-pitched melody.
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_clarinet_1,test_s,3,"The woodwind instrument whose tone resembles a soprano saxophone, played by the person not wearing a hat."
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_guitar_1,test_s,2,"The object whose rhythmic manipulation produces the mid-range melodic core of the ensemble, played by the person wearing a white hat."
+pNV8MKNqOkI_20000_30000,pNV8MKNqOkI_20000_30000_saxophone_1,test_s,0,The left object whose reed-induced vibrations harmonize with the stringed instrument's melody.
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_cello_1,test_s,1,"The wooden object played by the person standing near the door."
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_violin_1,test_s,2,"The wooden object held by the leftmost person, creating high-pitched melodies, smaller than a cello."
+q3YnhPgt-rM_118000_128000,q3YnhPgt-rM_118000_128000_violin_3,test_s,13,"The bowed object held by a person with long and dark hair, whose vibrant timbre blends with the ensemble's harmonious resonance."
+r4NdM595K5c_40000_50000,r4NdM595K5c_40000_50000_flute_1,test_s,2,"The handheld object whose blowing produces a high-pitched melody, resembling a recorder's tone."
+rBAoCu5ykvE_177000_187000,rBAoCu5ykvE_177000_187000_razor_1,test_s,0,The buzzing object used for morning rituals in a typical bathroom.
+rzKjN2en0H8_830000_840000,rzKjN2en0H8_830000_840000_accordion_1,test_s,3,The handheld rhythmic object whose expansion and contraction drives the melodic phrases.
+sHyhvtLTCbo_10000_20000,sHyhvtLTCbo_10000_20000_chair_1,test_s,1,"The object beneath the musician, visually supporting yet audibly silent."
+sV1o5VmL-9g_824000_834000,sV1o5VmL-9g_824000_834000_dog_1,test_s,3,The leashed entity exhibiting trained retrieval behavior on verbal command.
+sjIEiu_ovKc_470000_480000,sjIEiu_ovKc_470000_480000_harp_1,test_s,0,"The object whose strings, when manipulated, evoke the sounds of angelic choirs."
+tMorLZku6Pc_194000_204000,tMorLZku6Pc_194000_204000_sitar_1,test_s,0,The plucked object whose resonating gourd produces Hindustani melodies.
+tMorLZku6Pc_194000_204000,tMorLZku6Pc_194000_204000_tabla_3,test_s,3,The percussive objects played by the person not holding the stringed instrument.
+tZbh1cwwfv0_222000_232000,tZbh1cwwfv0_222000_232000_piano_1,test_s,0,The entity whose double reed produces lower notes than the accompanying higher-pitched instrument.
+topmJqYT-Ts_1000_11000,topmJqYT-Ts_1000_11000_cello_1,test_s,1,The seated performer's instrument producing lower-pitched melodic phrases in the duet.
+vOj00VJiBuk_80000_90000,vOj00VJiBuk_80000_90000_girl_1,test_s,0,The individual vocally harmonizing while rhythmically manipulating a stringed instrument.
+vOj00VJiBuk_80000_90000,vOj00VJiBuk_80000_90000_guitar_1,test_s,1,"The six-stringed item held by the singing person, harmonizing with another similar item."
+vVJ-Zhj2HvU_22000_32000,vVJ-Zhj2HvU_22000_32000_piano_1,test_s,3,The object whose manipulated components harmonize with the higher-pitched woodwind instrument's melody.
+w7vA5f0vPvQ_15000_25000,w7vA5f0vPvQ_15000_25000_flute_1,test_s,4,"The wind instrument held horizontally, creating high-pitched melodies distinct from the guitar's strumming."
+wdB0tV2egxE_260000_270000,wdB0tV2egxE_260000_270000_chair_1,test_s,0,The unoccupied object in front of the man standing on the right.
+wrdAEmNvEj4_831000_841000,wrdAEmNvEj4_831000_841000_car_1,test_s,3,"The whilte metallic entity, mostly obscured, in a parking shed."
+wrdAEmNvEj4_831000_841000,wrdAEmNvEj4_831000_841000_car_2,test_s,2,"The inanimate object closest to the source of meows, partially shaded."
+xUQ9rDswHdw_140000_150000,xUQ9rDswHdw_140000_150000_pipa_1,test_s,2,The pear-like plucked object whose timbre evokes ancient Chinese dynasties.
+xnx3u5YaNuc_402000_412000,xnx3u5YaNuc_402000_412000_clarinet_1,test_s,4,The handheld object whose controlled air vibrations create a melodic counterpoint to the piano
+z3Q_mZgKLrM_20000_30000,z3Q_mZgKLrM_20000_30000_marimba_1,test_s,2,"The metallic object whose struck bars produce bright, resonant tones, unlike its stringed counterparts."
+zPMUL7f4OOU_420000_430000,zPMUL7f4OOU_420000_430000_cello_1,test_s,0,"The object producing the lowest notes, held between the legs, visually unlike its counterparts."
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_man_1,test_s,0,The speaker whose audio is clear despite the visually low-resolution video frame.
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_table_1,test_s,2,"The item beneath the silent person's hands, resembling typical office furnishings."
+zstao4nIPmU_250000_260000,zstao4nIPmU_250000_260000_table_3,test_s,3,"The item behind the person wearing a watch, seemed to be filled with certificates and other things."
+-fGFQTGd2nA_2000_12000,-fGFQTGd2nA_2000_12000_emergency-car_1,test_u,0,"The object with rhythmic, pulsating lights, traversing a snow-covered path."
+-kr4SUjnm88_0_10000,-kr4SUjnm88_0_10000_emergency-car_1,test_u,1,"The item designed for public safety, yet moving without typical urgency signals."
+0-vcLH45brE_1000_11000,0-vcLH45brE_1000_11000_emergency-car_1,test_u,0,"The item whose intermittent flashes defy its gentle, almost silent passage."
+0AcFEwUx1IQ_24000_34000,0AcFEwUx1IQ_24000_34000_pig_1,test_u,0,"The upright entity exhibiting farm-like vocalizations, yet lacking mud coverage."
+0EPK7Pv_lbE_45000_55000,0EPK7Pv_lbE_45000_55000_emergency-car_1,test_u,1,The visible object whose typical auditory signal is urgent.
+0EPK7Pv_lbE_80000_90000,0EPK7Pv_lbE_80000_90000_emergency-car_1,test_u,1,"The object whose intermittent wail suggests urgency, yet moves with typical urban flow."
+0Stq3XQqmYE_13000_23000,0Stq3XQqmYE_13000_23000_gun_1,test_u,2,"The item whose rapid, percussive sounds create a battlefield-like auditory experience."
+0Stq3XQqmYE_13000_23000,0Stq3XQqmYE_13000_23000_gun_2,test_u,2,The object making the loudest sound.
+0YKDwGCoMkw_115000_125000,0YKDwGCoMkw_115000_125000_gun_1,test_u,2,"The item held, producing percussive sounds reminiscent of recreational projectile devices."
+0iVM2GY3R_c_12000_22000,0iVM2GY3R_c_12000_22000_emergency-car_1,test_u,2,"The item designed for urban rescue, visually static yet audibly urgent."
+0iVM2GY3R_c_30000_40000,0iVM2GY3R_c_30000_40000_emergency-car_1,test_u,0,The object whose intermittent siren blasts contrast with its visually static presence.
+1FclvjVqnJk_3000_13000,1FclvjVqnJk_3000_13000_tuba_1,test_u,1,The larger brass object whose low-pitched notes complement the higher-pitched accompaniment.
+1FclvjVqnJk_3000_13000,1FclvjVqnJk_3000_13000_tuba_2,test_u,1,The object making longer sound duration than the piano.
+1FclvjVqnJk_40000_50000,1FclvjVqnJk_40000_50000_tuba_1,test_u,1,"The object producing low, resonant notes, harmonizing with higher-pitched melodies."
+1hoqgyCNlZY_147000_157000,1hoqgyCNlZY_147000_157000_gun_1,test_u,0,"The item held by a spekaing person, often considered dangerous."
+1hoqgyCNlZY_80000_90000,1hoqgyCNlZY_80000_90000_gun_1,test_u,1,The handheld item whose triggered percussive sounds echo through the natural environment.
+1ikYg55bxIg_120000_130000,1ikYg55bxIg_120000_130000_tuba_1,test_u,2,"The source of low, resonant tones harmonizing with higher-pitched notes from another."
+1ikYg55bxIg_15000_25000,1ikYg55bxIg_15000_25000_tuba_2,test_u,1,The object volume is louder over the time.
+1ikYg55bxIg_15000_25000,1ikYg55bxIg_15000_25000_tuba_1,test_u,1,The visually metallic object whose low register complements higher-pitched notes.
+1ikYg55bxIg_180000_190000,1ikYg55bxIg_180000_190000_tuba_1,test_u,0,The visually metallic object producing the lowest audible frequencies in the performance.
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_piano_1,test_u,2,The stationary object whose player sit on a long black leather chair.
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_tuba_1,test_u,0,"The object producing the lowest notes, complementing higher-pitched melodies."
+1ikYg55bxIg_32000_42000,1ikYg55bxIg_32000_42000_woman_1,test_u,1,"The seated entity, with an adjacent companion, whose controlled breath creates resonant, low-frequency vibrations."
+2B_tR_2Ww6Y_20000_30000,2B_tR_2Ww6Y_20000_30000_lion_1,test_u,0,The source of a sound evoking apex predator dominance in African savannas.
+39xq5AATMp4_42000_52000,39xq5AATMp4_42000_52000_baby_1,test_u,2,The small bipedal entity exhibiting imitative ambulatory behavior near a canine.
+39xq5AATMp4_42000_52000,39xq5AATMp4_42000_52000_dog_1,test_u,0,The quadruped whose vertical posture and forelimbs manipulate the sound-producing surface.
+39xq5AATMp4_60000_70000,39xq5AATMp4_60000_70000_baby_1,test_u,2,The small bipedal entity accompanied with a curious canine musician.
+3gbLFB-r9Fs_1090000_1100000,3gbLFB-r9Fs_1090000_1100000_motorcycle_1,test_u,0,"The item idling, visually atop snowy terrain, lacking typical auditory cues of motion."
+3gbLFB-r9Fs_1182000_1192000,3gbLFB-r9Fs_1182000_1192000_motorcycle_1,test_u,0,"The object with knobby wheels emitting combustion engine sounds, traversing a snowy terrain."
+3gbLFB-r9Fs_1210000_1220000,3gbLFB-r9Fs_1210000_1220000_motorcycle_1,test_u,0,"The object traversing snowy terrain, producing combustion engine-like auditory signals."
+3mh36Zm0lLM_0_10000,3mh36Zm0lLM_0_10000_wolf_2,test_u,0,"The one whose howl joins the chorus, yet its coat lacks the pristine white of its companions."
+4HlGbrNuyPU_0_10000,4HlGbrNuyPU_0_10000_sheep_1,test_u,0,"The smaller ruminant, distinct from its larger, long-eared companions."
+5YLQapaxA8o_80000_90000,5YLQapaxA8o_80000_90000_tuba_1,test_u,1,"The visually largest brass item, producing the lowest-pitched sound in this ensemble."
+5YLQapaxA8o_80000_90000,5YLQapaxA8o_80000_90000_tuba_2,test_u,0,"The object, played by a man with a red shirt, producing the lowest notes, resembling a sousaphone visually."
+6985M7cEWSE_0_10000,6985M7cEWSE_0_10000_wolf_2,test_u,0,"The entity exhibiting pack-like behavior, but audibly expressing solitary emotion."
+6985M7cEWSE_45000_55000,6985M7cEWSE_45000_55000_wolf_1,test_u,1,"The small creature mirroring the larger one's skyward gaze near the gray stone."
+6985M7cEWSE_45000_55000,6985M7cEWSE_45000_55000_wolf_2,test_u,2,The entity lying on the stone.
+6KT2mbCNxO4_228000_238000,6KT2mbCNxO4_228000_238000_truck_1,test_u,0,"The object traversing the flooded terrain, emitting rhythmic puttering sounds, indicative of agricultural utility."
+6KT2mbCNxO4_434000_444000,6KT2mbCNxO4_434000_444000_truck_1,test_u,0,"The item whose cage-like tracks propel it, emitting a rhythmic agricultural drone."
+73QQbJIeB3Y_128000_138000,73QQbJIeB3Y_128000_138000_baby_1,test_u,0,"The small entity mimicking canine toy interaction, displaying pre-linguistic social cues."
+73QQbJIeB3Y_128000_138000,73QQbJIeB3Y_128000_138000_dog_1,test_u,2,The quadruped patiently observing a smaller entity's playful interaction with a rope.
+73QQbJIeB3Y_232000_242000,73QQbJIeB3Y_232000_242000_woman_1,test_u,1,The entity whose joyful sounds indicate a positive response to another's affectionate presence.
+73QQbJIeB3Y_298000_308000,73QQbJIeB3Y_298000_308000_dog_1,test_u,1,"The large, gentle creature patiently engaging with the small human."
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_baby_3,test_u,0,The small entity displaying nascent curiosity towards the unfamiliar canine.
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_dog_1,test_u,2,The fluffy entity displaying typical canine curiosity towards the infants.
+73QQbJIeB3Y_353000_363000,73QQbJIeB3Y_353000_363000_dog_3,test_u,3,"The fluffy entity exhibiting gentle, non-aggressive social behavior towards infants."
+73QQbJIeB3Y_446000_456000,73QQbJIeB3Y_446000_456000_dog_1,test_u,1,The four-legged entity displaying typical canine curiosity towards the smaller human.
+73QQbJIeB3Y_460000_470000,73QQbJIeB3Y_460000_470000_dog_1,test_u,1,The four-legged entity patiently observing the smaller one's playful exploration.
+73QQbJIeB3Y_68000_78000,73QQbJIeB3Y_68000_78000_dog_1,test_u,2,"The silent, furry entity patiently awaiting dropped food scraps from the laughing person."
+73QQbJIeB3Y_68000_78000,73QQbJIeB3Y_68000_78000_table_1,test_u,1,The item bridging the infant and the eagerly awaiting canine.
+73QQbJIeB3Y_95000_105000,73QQbJIeB3Y_95000_105000_dog_1,test_u,1,The four-legged entity exhibiting typical canine curiosity towards the toddler.
+73QQbJIeB3Y_95000_105000,73QQbJIeB3Y_95000_105000_man_2,test_u,0,"The entity visually engaged with the canine, exhibiting familiar playful interaction."
+7qeEs3ahSm4_49000_59000,7qeEs3ahSm4_49000_59000_gun_1,test_u,1,"The item held, whose single, sharp report contrasts with the ambient winter silence."
+89IuqwavDU8_16000_26000,89IuqwavDU8_16000_26000_tiger_2,test_u,1,"The apex predator, below the human eye compared to its peers, whose stillness contrasts with the audible tearing, indicative of a recent hunt."
+8FbJkBe9dsM_7000_17000,8FbJkBe9dsM_7000_17000_sheep_1,test_u,0,"The one, on the far right, facing the camera, seemingly unperturbed, amidst its vocalizing companions."
+8RAGgYu2LlE_40000_50000,8RAGgYu2LlE_40000_50000_wolf_1,test_u,0,"The domesticated entity producing sounds reminiscent of its wild, howling ancestors."
+A-e3dr7fTIs_0_10000,A-e3dr7fTIs_0_10000_mower_1,test_u,0,The item whose single-cylinder combustion audibly echoes across the flooded terrain.
+A-e3dr7fTIs_15000_25000,A-e3dr7fTIs_15000_25000_mower_1,test_u,0,The item whose single wheel's visual motion turns earth audibly near rice stalks.
+A-e3dr7fTIs_318000_328000,A-e3dr7fTIs_318000_328000_mower_1,test_u,0,The object whose combustion engine propels it while reshaping the flooded terrain.
+AL9pqcOjpGQ_43000_53000,AL9pqcOjpGQ_43000_53000_mower_1,test_u,0,"The handled object whose activation creates a high-pitched, cyclical hum."
+BY3AYOQL764_22000_32000,BY3AYOQL764_22000_32000_sheep_1,test_u,0,"The farm animal tethered, keeping bleating."
+CAEGMnX65Qw_287000_297000,CAEGMnX65Qw_287000_297000_motorcycle_1,test_u,1,The item whose large tires defy its subtle engine hum.
+De5YhqX0jdI_0_10000,De5YhqX0jdI_0_10000_tuba_1,test_u,0,"The large, gleaming object whose deep reverberations contrast with its elegant form."
+DzXVMjsZloE_0_10000,DzXVMjsZloE_0_10000_tiger_1,test_u,0,"The sounding apex predator exhibiting nocturnal pacing, confined by artificial barriers."
+E9WRPq3Xtoc_68000_78000,E9WRPq3Xtoc_68000_78000_wolf_1,test_u,0,"The ground-bound entity mirroring a lupine's form, yet domesticated by its orange neck adornment."
+ECTWcijfAzw_773000_783000,ECTWcijfAzw_773000_783000_gun_1,test_u,2,The item whose anticipated report is visually preceded by a recoil motion.
+ECTWcijfAzw_773000_783000,ECTWcijfAzw_773000_783000_gun_3,test_u,1,"The item whose anticipated percussive sound follows a brief, near-silent visual adjustment."
+EZ4COEsxRbs_35000_45000,EZ4COEsxRbs_35000_45000_leopard_1,test_u,0,"The apex predator confined, its territorial roar replaced by soft exhales."
+FPngHLY8Yf4_23000_33000,FPngHLY8Yf4_23000_33000_wolf_1,test_u,1,"The seemingly relaxed entity, on the right of the person, exhibiting pack-like vocalizations in a snowy environment."
+FPngHLY8Yf4_23000_33000,FPngHLY8Yf4_23000_33000_wolf_2,test_u,0,The most left entity mimicking a stereotypical canine vocalization in a snowy wilderness.
+FmLC0htEXVE_56000_66000,FmLC0htEXVE_56000_66000_lion_1,test_u,0,"The entity whose audio evokes an apex predator's dominance, contrasting its visually passive companion."
+FsdA8xRFHsE_0_10000,FsdA8xRFHsE_0_10000_wolf_1,test_u,0,"The lone entity whose mournful audio evokes wild, snowy landscapes."
+FzwtRoDcDDk_22000_32000,FzwtRoDcDDk_22000_32000_wolf_1,test_u,0,The entity exhibiting the vocalizations of a nocturnal forest creature.
+HZhuIUFjCKo_28000_38000,HZhuIUFjCKo_28000_38000_pig_1,test_u,0,The entity exhibiting typical farm animal behavior near a spilled metallic container.
+Hu2QCqWLFgc_637000_647000,Hu2QCqWLFgc_637000_647000_mower_1,test_u,0,The object whose cyclical blade action progressively shortens the visible ground cover.
+ImtOOKYZtuk_0_10000,ImtOOKYZtuk_0_10000_motorcycle_1,test_u,0,The object discussed in relation to post-lockdown outings and potential battery issues.
+ImtOOKYZtuk_189000_199000,ImtOOKYZtuk_189000_199000_motorcycle_1,test_u,0,The object whose anticipated auditory signature is initially absent.
+JLpr70M7qnY_5000_15000,JLpr70M7qnY_5000_15000_sheep_1,test_u,0,The barnyard resident whose vocalizations evoke a conversational tone.
+KXvmc3dLn3E_720000_730000,KXvmc3dLn3E_720000_730000_truck_1,test_u,0,The item whose hydraulic articulation shifts heavy cylindrical forms.
+LvdwLp6JWNM_3000_13000,LvdwLp6JWNM_3000_13000_wolf_1,test_u,0,The solitary entity exhibiting territorial pacing within the fenced perimeter.
+MDHqWp129tQ_5000_15000,MDHqWp129tQ_5000_15000_emergency-car_1,test_u,0,"The item with an urgent siren sound, yet silently stationed."
+MF-gcxj4hNQ_95000_105000,MF-gcxj4hNQ_95000_105000_motorcycle_2,test_u,1,"The item positioned left to the sounding object."
+Mivqxr0RS8w_18000_28000,Mivqxr0RS8w_18000_28000_vacuum-cleaner_1,test_u,1,"The object mimicking a household appliance, producing a whirring sound typical of its larger counterparts."
+NF28vE2RTpw_6000_16000,NF28vE2RTpw_6000_16000_leopard_1,test_u,0,"The solitary entity exhibiting a coat of black spots, quietly surveying its surroundings."
+NwISV0dGIQE_330000_340000,NwISV0dGIQE_330000_340000_lion_1,test_u,0,"The apex predator whose calls echo, signifying dominance over its unseen rivals."
+NwUomxbStjs_0_10000,NwUomxbStjs_0_10000_cat_1,test_u,1,"The domestic entity displaying predatory focus, though lacking typical hunting audio."
+ODtzRJgFZSU_0_10000,ODtzRJgFZSU_0_10000_leopard_1,test_u,0,The solitary entity exhibiting a coat resembling dappled sunlight through foliage.
+OEe6c3KIUB4_45000_55000,OEe6c3KIUB4_45000_55000_motorcycle_1,test_u,1,"The item whose anticipated roar is absent at the begining senconds, despite visual cues of preparation."
+OX6T2z4P9fA_23000_33000,OX6T2z4P9fA_23000_33000_mower_1,test_u,0,The grass-shortening machine propelled by an internal combustion engine.
+Oqol-yj-Q90_114000_124000,Oqol-yj-Q90_114000_124000_leopard_1,test_u,0,The apex predator whose soft growls belie its known capacity for explosive bursts.
+Oqol-yj-Q90_98000_108000,Oqol-yj-Q90_98000_108000_leopard_1,test_u,0,The apex predator whose panting belies its relaxed visual posture.
+PYP-r0nvbFk_55000_65000,PYP-r0nvbFk_55000_65000_sheep_1,test_u,0,"The farm animal expressing curiosity near the metallic barrier, seeking interaction."
+PcdKAvd51l0_41000_51000,PcdKAvd51l0_41000_51000_truck_1,test_u,0,The item whose mechanical hum suggests forestry maintenance near rails.
+PwazdGn6ldc_24000_34000,PwazdGn6ldc_24000_34000_pig_1,test_u,0,The entity exhibiting stereotypical farm sounds while visually foraging in verdant terrain.
+PxXx1BUtLT4_5000_15000,PxXx1BUtLT4_5000_15000_truck_1,test_u,0,"The large item showcasing Truckstar branding, moving forward beneath an inflatable arch."
+PzmC9b4J1Ck_6000_16000,PzmC9b4J1Ck_6000_16000_wolf_1,test_u,0,"The entity who emits extended, mournful call."
+QTe-i0Pcn4s_37000_47000,QTe-i0Pcn4s_37000_47000_tuba_1,test_u,2,The visually prominent brass object emitting the lowest orchestral frequencies.
+QTe-i0Pcn4s_37000_47000,QTe-i0Pcn4s_37000_47000_tuba_3,test_u,4,"The visually prominent brass item known for its deep, resonant tones in orchestral settings."
+QnVzn-1mESU_100000_110000,QnVzn-1mESU_100000_110000_wolf_2,test_u,1,"The creature exhibiting pack behavior, its howls echoing a wilderness lament."
+RHy5nC-gRV8_668000_678000,RHy5nC-gRV8_668000_678000_baby_1,test_u,4,"The small entity adorned with a pink bow, visually cradled by an adult."
+SS53enMsEZg_0_10000,SS53enMsEZg_0_10000_leopard_1,test_u,0,"The apex predator whose roars echo, confined by an artificial barrier."
+TZDismkrChU_1000_11000,TZDismkrChU_1000_11000_leopard_1,test_u,0,"The solitary nocturnal hunter, momentarily illuminated, exhibiting the coat of its rainforest kin."
+Um82Xw7oCkc_28000_38000,Um82Xw7oCkc_28000_38000_wolf_1,test_u,1,"The leashed entity whose howls evoke its wild, pack-oriented ancestry."
+VvlvMzBQ9E4_90000_100000,VvlvMzBQ9E4_90000_100000_woman_1,test_u,2,"The entity wielding the warm air producer, soothing the distressed cries."
+W9BbX72k_X0_3000_13000,W9BbX72k_X0_3000_13000_leopard_1,test_u,0,"The apex predator exhibiting a guttural vocalization, confined by an artificial barrier."
+WK5cRnwMdVY_2000_12000,WK5cRnwMdVY_2000_12000_wolf_1,test_u,0,"The entity expressing a mournful, collective howl, echoing canine pack behavior."
+WOJMjZAMUFk_21000_31000,WOJMjZAMUFk_21000_31000_leopard_1,test_u,0,The apex predator exhibiting nurturing behavior atypical of its solitary nature.
+WPrsmLV6KlE_25000_35000,WPrsmLV6KlE_25000_35000_leopard_1,test_u,0,The solitary entity exhibiting the rosette markings of apex predators in African grasslands.
+Y0t3yM_3ZwE_145000_155000,Y0t3yM_3ZwE_145000_155000_pig_1,test_u,1,"The larger entity consuming from the bowl, exhibiting typical farm animal contentment."
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_baby_1,test_u,0,"The little one, center-seated, radiating joy amidst uniformed siblings."
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_baby_2,test_u,4,The entity wearing uniforms and making funny gestures and noises.
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_girl_1,test_u,3,"The one dressed in school uniform, next to his mother, with a broad smile."
+Y735cxoG5-4_270000_280000,Y735cxoG5-4_270000_280000_woman_1,test_u,1,"The visually mature entity who appears to be wearing lipstick, displaying a subtle, encouraging smile towards the younger ones."
+Y7gRJOkZV-g_745000_755000,Y7gRJOkZV-g_745000_755000_motorcycle_1,test_u,2,The item whose low rumble contrasts with the silent dog nearby.
+ZqwnEQf0UfQ_44000_54000,ZqwnEQf0UfQ_44000_54000_tuba_1,test_u,0,"The large, valved brass object whose deep resonance fills the indoor space."
+_-apT0tfo6U_16000_26000,_-apT0tfo6U_16000_26000_motorcycle_1,test_u,5,"The item parked, embodying urban mobility, yet silent amidst the musical backdrop."
+_JUuv3q0OCM_20000_30000,_JUuv3q0OCM_20000_30000_mower_1,test_u,0,The object whose whirring precedes the visual transformation of tall green blades.
+amnXQw15Pzc_335000_345000,amnXQw15Pzc_335000_345000_gun_1,test_u,0,"The item whose anticipated auditory output is absent, despite visual readiness."
+cLmFz_WDbdw_20000_30000,cLmFz_WDbdw_20000_30000_truck_1,test_u,0,"The object whose visual branding indicates a family enterprise, emitting a low rumble."
+cRT5SWbyA54_3000_13000,cRT5SWbyA54_3000_13000_tiger_1,test_u,0,The apex predator whose infrequent vocalizations contrast with its visually striking coat.
+cVQUaecTlpU_163000_173000,cVQUaecTlpU_163000_173000_sheep_1,test_u,0,"The mature entity exhibiting farm-animal vocalizations, visually distinct from its smaller companions."
+dh2qX9nQIYI_30000_40000,dh2qX9nQIYI_30000_40000_tuba_1,test_u,2,The object whose low register complements higher-pitched notes from another instrument.
+dz2Rp5bISuE_27000_37000,dz2Rp5bISuE_27000_37000_sheep_1,test_u,0,The leashed farm animal bleating near a post.
+e4keL3T9Hz4_39000_49000,e4keL3T9Hz4_39000_49000_lion_1,test_u,0,"The entity whose deep resonating vocalizations assert dominance, typical of jungle monarchs."
+f170h57Dips_0_10000,f170h57Dips_0_10000_truck_1,test_u,1,"The entity carrying numerous lifeforms, visually reminiscent of safari expeditions."
+fHFriMNHizQ_93000_103000,fHFriMNHizQ_93000_103000_truck_1,test_u,0,"The large item with low hum moving towards a smaller object."
+fUpQFMEb9po_0_10000,fUpQFMEb9po_0_10000_wolf_1,test_u,0,"The entity whose rising, mournful call echoes the folklore of wilderness nights."
+fvK8_OlcrCo_15000_25000,fvK8_OlcrCo_15000_25000_tuba_1,test_u,2,"The object whose visually compact form generates unexpectedly deep, resonant tones."
+fvK8_OlcrCo_328000_338000,fvK8_OlcrCo_328000_338000_tuba_1,test_u,1,The visually metallic object whose low resonant hum harmonizes with higher-pitched notes.
+fvK8_OlcrCo_40000_50000,fvK8_OlcrCo_40000_50000_tuba_1,test_u,1,The visually metallic object producing the lowest audible frequency in the orchestra.
+fvK8_OlcrCo_91000_101000,fvK8_OlcrCo_91000_101000_tuba_1,test_u,8,"The object producing the lowest notes, resembling a distorted trumpet, held by the seated person."
+g5FVJveyyVM_30000_40000,g5FVJveyyVM_30000_40000_lion_1,test_u,0,"The apex predator confined, its roars echoing a primal dominance, yet contained by artificial barriers."
+gAf1QWvKNRE_262000_272000,gAf1QWvKNRE_262000_272000_gun_1,test_u,1,"The item held, causing two percussive bursts and smoke."
+gAf1QWvKNRE_335000_345000,gAf1QWvKNRE_335000_345000_gun_1,test_u,1,"The item held, whose abrupt movements coincide with percussive sounds."
+hornh-NQBHY_262000_272000,hornh-NQBHY_262000_272000_mower_1,test_u,0,The handled object whose whirring precedes freshly cut grass scent.
+ifGuIUPl1hE_30000_40000,ifGuIUPl1hE_30000_40000_lion_1,test_u,0,"The entity whose deep, resonant calls echo a king's dominance in its natural realm."
+iux1NLDSJhU_57000_67000,iux1NLDSJhU_57000_67000_leopard_1,test_u,0,"The apex predator confined, its roars echoing an unnatural habitat."
+jME9QyhHS_0_0_10000,jME9QyhHS_0_0_10000_baby_1,test_u,0,The small entity who joyfully play with a speaking counterpart.
+jME9QyhHS_0_0_10000,jME9QyhHS_0_0_10000_couch_1,test_u,2,"The stationary item providing support for the joyful, vocalizing individual."
+jME9QyhHS_0_110000_120000,jME9QyhHS_0_110000_120000_couch_1,test_u,1,"The item providing back support, visually associated with playful interaction."
+jME9QyhHS_0_35000_45000,jME9QyhHS_0_35000_45000_couch_1,test_u,2,"The item providing stable support, visually associated with joyful human sounds."
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_baby_1,test_u,3,The small entity exhibiting pre-linguistic communication through escalating vocalizations.
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_woman_1,test_u,0,The first object to make a sound.
+jME9QyhHS_0_50000_60000,jME9QyhHS_0_50000_60000_couch_1,test_u,1,"The item offering comfort, partially visible, near distressed human sounds."
+k35blcO8Z7k_1195000_1205000,k35blcO8Z7k_1195000_1205000_baby_1,test_u,0,The visually attentive entity whose non-verbal cues suggest absorption in the audible narrative.
+k35blcO8Z7k_1235000_1245000,k35blcO8Z7k_1235000_1245000_baby_1,test_u,0,The visually attentive entity whose tactile exploration elicits no vocalization.
+k35blcO8Z7k_35000_45000,k35blcO8Z7k_35000_45000_baby_1,test_u,0,"The silently attentive entity, visually mirroring pre-linguistic developmental stages."
+k35blcO8Z7k_35000_45000,k35blcO8Z7k_35000_45000_woman_1,test_u,1,The object that keeps making sound at all times.
+k35blcO8Z7k_50000_60000,k35blcO8Z7k_50000_60000_baby_1,test_u,0,The person that didn't make any sound.
+k35blcO8Z7k_700000_710000,k35blcO8Z7k_700000_710000_baby_1,test_u,1,"The visually cradled entity embodying early developmental stages, dependent on the larger one."
+k35blcO8Z7k_90000_100000,k35blcO8Z7k_90000_100000_baby_1,test_u,0,"The small entity held, visually attentive to the larger one's vocalizations."
+lCTH25Jdk-A_27000_37000,lCTH25Jdk-A_27000_37000_tiger_1,test_u,0,The apex predator exhibiting feeding behavior atypical of its wild habitat.
+m_TDmJDVh0o_307000_317000,m_TDmJDVh0o_307000_317000_emergency-car_1,test_u,0,"The distant object whose faint siren, demonstrating high urgency levels."
+nT0PHpAlvys_123000_133000,nT0PHpAlvys_123000_133000_mower_1,test_u,0,The object whose combustion engine trims the visual greenery rhythmically.
+nT0PHpAlvys_313000_323000,nT0PHpAlvys_313000_323000_mower_1,test_u,0,The object whose combustion engine's rhythm tames the visually chaotic green expanse.
+nT0PHpAlvys_40000_50000,nT0PHpAlvys_40000_50000_mower_1,test_u,0,The object whose monotonous hum rhythmically trims the visual greenery.
+nT0PHpAlvys_40000_50000,nT0PHpAlvys_40000_50000_mower_2,test_u,0,The object that keeps making sound at all times.
+nT0PHpAlvys_65000_75000,nT0PHpAlvys_65000_75000_mower_1,test_u,0,The object whose combustion engine trims the visual greenery rhythmically.
+oAPd5djYx0c_60000_70000,oAPd5djYx0c_60000_70000_truck_1,test_u,1,"The stationary form in the background, contrasting with the foreground's dynamic audio."
+oSMvY0tErC4_100000_110000,oSMvY0tErC4_100000_110000_flute_1,test_u,3,"The item held to the mouth, creating a higher pitch than its counterpart."
+oSMvY0tErC4_100000_110000,oSMvY0tErC4_100000_110000_tuba_2,test_u,1,The object rhythm is faster over the time.
+oSMvY0tErC4_50000_60000,oSMvY0tErC4_50000_60000_flute_1,test_u,3,"The item held horizontally, producing higher-pitched notes than its larger counterpart."
+oSMvY0tErC4_50000_60000,oSMvY0tErC4_50000_60000_tuba_1,test_u,1,The visually brass object producing lower register tones than its smaller counterpart.
+p8f-dwURY20_18000_28000,p8f-dwURY20_18000_28000_tiger_1,test_u,1,The top predator in the glass roars at its companions.
+q6Vwbg3SOSc_300000_310000,q6Vwbg3SOSc_300000_310000_gun_1,test_u,3,The item whose percussive emissions precisely coincide with visual muzzle flashes.
+q6Vwbg3SOSc_90000_100000,q6Vwbg3SOSc_90000_100000_gun_1,test_u,3,"The item held, aimed towards a distant vehicle, producing a single, sharp crack."
+q_EiqTTmLaI_90000_100000,q_EiqTTmLaI_90000_100000_truck_1,test_u,3,"The object emitting a rhythmic chug, reminiscent of early industrial farmlands."
+r77M_VroAlc_111000_121000,r77M_VroAlc_111000_121000_baby_2,test_u,0,The object making the shortest sound duration.
+r77M_VroAlc_111000_121000,r77M_VroAlc_111000_121000_dog_1,test_u,1,The larger entity exhibiting patient tolerance towards the smaller one's playful advances.
+rV7tIQMI02o_71000_81000,rV7tIQMI02o_71000_81000_truck_3,test_u,0,The object making the loudest sound.
+rV7tIQMI02o_71000_81000,rV7tIQMI02o_71000_81000_truck_1,test_u,0,The object audibly and visually transforming damp earth for crop cultivation.
+rooPPLtK9pg_0_10000,rooPPLtK9pg_0_10000_sheep_1,test_u,0,The barnyard resident whose plaintive calls echo a familiar pastoral soundscape.
+sp69Ndnhdbk_98000_108000,sp69Ndnhdbk_98000_108000_mower_1,test_u,0,"The object rhythmically shortening the visible vegetation, powered by a combustion engine's drone."
+uFcZhH_wFbs_133000_143000,uFcZhH_wFbs_133000_143000_lion_1,test_u,0,The apex predator whose resonant calls echo a pride's dominance in its native habitat.
+uFcZhH_wFbs_94000_104000,uFcZhH_wFbs_94000_104000_lion_1,test_u,1,"The entity with a mane, exhibiting terrestrial pride member's vocalizations."
+vll33KEoCcc_34000_44000,vll33KEoCcc_34000_44000_sheep_1,test_u,0,The small ruminant emitting sounds unlike mature counterparts.
+wfkdedUW-dk_50000_60000,wfkdedUW-dk_50000_60000_mower_1,test_u,0,The item whose mechanized actions mimic traditional manual grain harvesting.
+wfkdedUW-dk_85000_95000,wfkdedUW-dk_85000_95000_mower_1,test_u,1,"The object whose mechanized actions transform a golden field into a shorter, uniform carpet."
+wzLnvUzvdFY_43000_53000,wzLnvUzvdFY_43000_53000_tuba_1,test_u,1,The vertically oriented object whose brass-like resonance fills the concert hall.
+r77M_VroAlc_182000_192000,r77M_VroAlc_182000_192000_baby_2,test_u,0,"The small one mimicking adult sounds, visually displaying pre-linguistic communication."
