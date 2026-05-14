@@ -1,3 +1,4 @@
+import os
 import torch
 from torch import nn,Tensor
 import json
@@ -563,7 +564,7 @@ class MaskEncoder(nn.Module):
             n_embed=16384,
             embed_dim=256,
             
-            ckpt_path = '/group/40061/cserdu/pretrain/vqgan/vqgan_imagenet_f16_16384/weight.ckpt'
+            ckpt_path=os.environ.get("TGS_VQGAN_CKPT", "./pretrained_weights/vqgan_imagenet_f16_16384/weight.ckpt"),
         )
         self.vqgan.requires_grad_(False)
         self.vqgan.eval()

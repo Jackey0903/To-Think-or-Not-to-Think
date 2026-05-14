@@ -1,13 +1,16 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+cd "${ROOT_DIR}"
 
 # Environment Variables
 WORLD_SIZE=1
-NPROC_PER_NODE=8
-MASTER_PORT=6666
+NPROC_PER_NODE="${TGS_NPROC_PER_NODE:-8}"
+MASTER_PORT="${TGS_MASTER_PORT:-6666}"
 RANK=0
 
-llama2_ckpt_path=/group/40061/cserdu/pretrain/Llama-2-7b-chat-hf
-qwen2_ckpt_path=/group/40061/cserdu/pretrain/Qwen2-7B-Instruct
+llama2_ckpt_path="${TGS_MODEL_PATH:-./pretrained_weights/Llama-2-7b-chat-hf}"
 
 # Training Arguments
 LOCAL_BATCH_SIZE=4
@@ -16,13 +19,12 @@ GLOBAL_BATCH_SIZE=$WORLD_SIZE*$NPROC_PER_NODE*$LOCAL_BATCH_SIZE*$GRADIENT_ACCUMU
 # 16*8*4
 # Log Arguments
 export TRANSFORMERS_OFFLINE=1
-export WANDB_PROJECT=pretrain
-RUN_NAME=llama-audio-qformer
-OUTP_DIR=results
-export CUDA_VISIBLE_DEVICES='0,1,2,3,4,5,6,7'
+export WANDB_PROJECT="${WANDB_PROJECT:-pretrain}"
+RUN_NAME="${RUN_NAME:-llama-audio-qformer}"
+OUTP_DIR="${TGS_OUTPUT_DIR:-results}"
 export TOKENIZERS_PARALLELISM='true'
-export ASCEND_LAUNCH_BLOCKING='1'
-export NCCL_P2P_DISABLE=NVL
+export ASCEND_LAUNCH_BLOCKING="${ASCEND_LAUNCH_BLOCKING:-1}"
+export NCCL_P2P_DISABLE="${NCCL_P2P_DISABLE:-NVL}"
 # export CUDA_DEVICE_ORDER="PCI_BUS_ID"
 
 torchrun --nproc_per_node $NPROC_PER_NODE \
@@ -44,14 +46,14 @@ torchrun --nproc_per_node $NPROC_PER_NODE \
     --image_caption_task False \
     --video_caption_task False \
     --video_frame_nums 8 \
-    --vit_ckpt_path /group/40061/cserdu/pretrain/openai-clip-vit-large-patch14-224 \
+    --vit_ckpt_path "${TGS_VIT_PATH:-./pretrained_weights/clip-vit-large-patch14}" \
     --select_feature patch \
     --image_size 224 \
     --patch_size 14 \
     --visual_query_token_nums 32 \
     --audio_branch True \
     --audio_caption_task True \
-    --BEATs_ckpt_path /group/40061/cserdu/pretrain/beats/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt \
+    --BEATs_ckpt_path "${TGS_BEATS_PATH:-./pretrained_weights/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt}" \
     --audio_query_token_nums 32 \
     --seg_branch False \
     --segmentation_task False \
@@ -82,4 +84,3 @@ torchrun --nproc_per_node $NPROC_PER_NODE \
     --half_precision_backend "auto" \
     --dataloader_num_workers 4 \
     --report_to tensorboard \
-

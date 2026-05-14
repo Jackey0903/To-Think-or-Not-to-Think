@@ -22,6 +22,9 @@ from transformers import CLIPImageProcessor
 
 from dataset.audio_processor import preprocess
 
+
+DEFAULT_PRETRAIN_DATA_ROOT = os.environ.get("TGS_PRETRAIN_DATA_ROOT", "./data/pretrain")
+
 '''
 Image caption
 Video caption
@@ -32,21 +35,21 @@ class PretrainDataset(Dataset):
 
     def __init__(
         self,
-        image_annotation_path='/group/40061/cserdu/data/video-llava/train_json/llava_image_.json',
-        video_annotation_path='/group/40061/cserdu/data/video-llava/train_json/valid_valley_.json',
-        video_llava_data_root='/group/40061/cserdu/data/video-llava',
+        image_annotation_path=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava/train_json/llava_image_.json'),
+        video_annotation_path=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava/train_json/valid_valley_.json'),
+        video_llava_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava'),
         image_caption_task=False,
         video_caption_task=False,
         image_size = 224,
         video_frame_nums = 8,
         # wavcaps_data_root='/DATA/DATANAS2/ligy/WavCaps',
-        audiocaps_data_root='/group/40061/cserdu/data/AudioCaps',
+        audiocaps_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'AudioCaps'),
         audio_caption_task=False,
-        grounded_vqa_data_root='/group/40061/cserdu/data/GroundedVQA',
+        grounded_vqa_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'GroundedVQA'),
         segmentation_task=False,
         image_scale_nums = 2,
         token_nums_per_scale = 3,
-        lvis_data_root='/group/40061/cserdu/data/LVIS',
+        lvis_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'LVIS'),
         video_processor: CLIPImageProcessor = None,
         # audio_processor=None,
         tokenizer: transformers.PreTrainedTokenizer = None,
@@ -348,21 +351,21 @@ class PretrainTestDataset(Dataset):
 
     def __init__(
         self,
-        image_annotation_path='/group/40061/cserdu/data/video-llava/train_json/llava_image_.json',
-        video_annotation_path='/group/40061/cserdu/data/video-llava/train_json/valid_valley_.json',
-        video_llava_data_root='/group/40061/cserdu/data/video-llava',
+        image_annotation_path=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava/train_json/llava_image_.json'),
+        video_annotation_path=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava/train_json/valid_valley_.json'),
+        video_llava_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'video-llava'),
         image_caption_task=False,
         video_caption_task=False,
         image_size = 224,
         video_frame_nums = 8,
         # wavcaps_data_root='/DATA/DATANAS2/ligy/WavCaps',
-        audiocaps_data_root='/group/40061/cserdu/data/AudioCaps',
+        audiocaps_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'AudioCaps'),
         audio_caption_task=False,
-        grounded_vqa_data_root='/group/40061/cserdu/data/GroundedVQA',
+        grounded_vqa_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'GroundedVQA'),
         segmentation_task=False,
         image_scale_nums = 2,
         token_nums_per_scale = 3,
-        lvis_data_root='/group/40061/cserdu/data/LVIS',
+        lvis_data_root=join(DEFAULT_PRETRAIN_DATA_ROOT, 'LVIS'),
         video_processor: CLIPImageProcessor = None,
         # audio_processor=None,
         tokenizer: transformers.PreTrainedTokenizer = None,
@@ -796,5 +799,4 @@ def get_dataset_collator(
         data_collator = DataCollatorForPretrainTestDataset(tokenizer=tokenizer)
     
     return dataset,data_collator
-
 

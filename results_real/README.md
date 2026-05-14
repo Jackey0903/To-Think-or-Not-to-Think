@@ -12,3 +12,4 @@ results_real/
 
 Checkpoints and generated inference outputs are not tracked in Git.
 
+See [`docs/WEIGHTS.md`](../docs/WEIGHTS.md) for the released checkpoint link and expected layout.

@@ -50,3 +50,8 @@ bash ground_segment_scripts/Grounded-SAM-2/checkpoints/download_ckpts.sh
 python scripts/check_smoke.py
 ```
 
+Use strict mode after preparing all resources:
+
+```bash
+python scripts/check_smoke.py --strict
+```

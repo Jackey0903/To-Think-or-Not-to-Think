@@ -13,7 +13,21 @@ R2AVSBench/
   RefThinker_instruction_tuning_set.json
 ```
 
-`R2AVSBench/*.csv` metadata files are kept in this repository because they are small and needed by the scripts. The full Ref-AVSBench videos, masks, and Ref-Thinker instruction-tuning JSON should be downloaded separately according to the dataset release instructions.
+`R2AVSBench/*.csv` metadata files are kept in this repository because they are small and needed by the scripts.
+
+Download the full Ref-AVSBench videos and masks from:
+
+- https://github.com/GeWu-Lab/Ref-AVS
+
+Download the Ref-Thinker instruction-tuning JSON from:
+
+- https://huggingface.co/datasets/Jinxing1/TGSAgent-FT-data/tree/main
+
+Place the JSON at:
+
+```text
+R2AVSBench/RefThinker_instruction_tuning_set.json
+```
 
 The default paths can be overridden by script arguments such as:
 
@@ -31,4 +45,3 @@ For Ground-Segment evaluation, `scripts/budget/ground_budget.py` also accepts:
 --media-dir /path/to/REFAVS/media
 --gt-mask-dir /path/to/REFAVS/gt_mask
 ```
-

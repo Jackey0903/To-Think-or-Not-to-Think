@@ -38,3 +38,4 @@ python scripts/budget/infer_budget.py \
   --avs-ckpt-dir /path/to/released-ref-thinker-checkpoint
 ```
 
+For download links and helper commands, see [WEIGHTS.md](WEIGHTS.md).

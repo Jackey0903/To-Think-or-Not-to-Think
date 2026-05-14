@@ -13,3 +13,4 @@ pretrained_weights/
 
 Weights are not tracked in Git.
 
+See [`docs/WEIGHTS.md`](../docs/WEIGHTS.md) for download links and helper commands.
