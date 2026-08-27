@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg?logo=python&logoColor=white)](#installation)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?logo=pytorch&logoColor=white)](#installation)
 [![Task](https://img.shields.io/badge/Task-Ref--AVS-2E8B57.svg)](#overview)
-[![Benchmark](https://img.shields.io/badge/Benchmark-RefAVSBench%20%7C%20R²--AVSBench-8A2BE2.svg)](#key-results)
+[![Benchmark](https://img.shields.io/badge/Benchmark-RefAVSBench%20%7C%20R²--AVSBench-8A2BE2.svg)](#results)
 [![Code](https://img.shields.io/badge/Code-Released-1f6feb.svg)](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
 [![Weights](https://img.shields.io/badge/Weights-Links%20Provided-f59e0b.svg)](#model-zoo)
 [![Paper](https://img.shields.io/badge/Paper-Under%20Review-f59e0b.svg)](#citation)
@@ -30,14 +30,14 @@
 
 Multimodal reasoning systems increasingly assume that longer chain-of-thought uniformly improves downstream grounding. **In referring audio-visual segmentation, that assumption fails.**
 
-- A speaker clearly visible against a wall, a single instrument in frame — the visual evidence is already unambiguous. Forcing a long reasoning chain creates what we call the **overthinking trap**: the model over-analyzes, drifts toward hallucinated linguistic priors, and produces a *worse* mask. Empirically, forcing long CoT on simple queries inflates grounding-phrase length by 245%, and **41.5% of long outputs contain unsupported additions**; top-1 box IoU drops 0.72 → 0.58.
+- A speaker clearly visible against a wall, a single instrument in frame — the visual evidence is already unambiguous. Forcing a long reasoning chain creates what we call the **overthinking trap**: the model over-analyzes, drifts toward hallucinated linguistic priors, and produces a *worse* mask.
 - Genuinely ambiguous references — *which* of several instruments plays longest — still benefit from multi-step reasoning.
 
 So the value of reasoning is not a property of the model but of the **input–model interaction**. This raises the question the paper is built around:
 
 > *Can the model itself tell us how much to think, before it begins thinking?*
 
-We look inside the model at the **generation-onset representation** `h_onset` — the final-layer state at the last input token, after all video, audio, and text evidence has been integrated but **before any reasoning token is generated**. This state is *pre-decisional*: it contains no generated reasoning content, yet we show it linearly encodes whether reasoning will help. We call this the **Pre-Decisional Budget Signal (PDBS)**.
+We look inside the model at the **generation-onset representation** `h_onset` — the final-layer state at the last input token, after all video, audio, and text evidence has been integrated but **before any reasoning token is generated**. This state is *pre-decisional*: it contains no generated reasoning content, yet it turns out to encode whether reasoning will help. We call this the **Pre-Decisional Budget Signal (PDBS)**.
 
 ## Method
 
@@ -61,72 +61,9 @@ Three discrete budgets act as controlled counterfactual interventions, all feedi
 
 Because the onset state is already computed during standard inference, routing adds **near-zero latency and no extra forward pass**.
 
-## Key Results
+## Results
 
-### 1. No single budget dominates
-
-Counterfactual Budget Labeling runs every sample under all budgets and keeps the cheapest one within tolerance of the best score.
-
-| Split | zero % | short % | long % | oracle J&F | always-long J&F | Δ |
-| --- | --- | --- | --- | --- | --- | --- |
-| RefAVSBench test_s | 42.4 | 27.3 | 30.3 | 0.623 | 0.549 | **+0.074** |
-| RefAVSBench test_u | 57.7 | 24.1 | 18.2 | 0.822 | 0.769 | **+0.053** |
-| R²-AVSBench test_s | 41.1 | 32.4 | 26.5 | 0.539 | 0.474 | **+0.065** |
-
-An oracle per-sample assignment beats always-long by **5.3–7.4 J&F points** — a large margin in Ref-AVS, where architectural advances typically move the needle by ~4.
-
-### 2. Reasoning need is linearly readable before generation
-
-<p align="center">
-  <img src="assets/probe.png" width="88%" alt="PDBS is readable across layers and dimensions">
-</p>
-
-| Probe input | Binary acc ↑ | 3-class acc ↑ |
-| --- | --- | --- |
-| Majority class | 0.577 | 0.424 |
-| Random Gaussian (d=4096) | 0.577 | 0.425 |
-| Text only (PBS-A) | 0.581 | 0.431 |
-| Ref-token embedding (mean) | 0.623 | 0.460 |
-| **Linear on `h_onset`** | **0.701** | 0.503 |
-| MLP on `h_onset` (2-layer) | 0.689 | **0.546** |
-| Linear, best layer (L19) | **0.745** | 0.538 |
-
-A *single linear layer* on the onset state reaches **70.1%** binary accuracy against a 57.7% majority baseline (p < 10⁻³⁰), while surface text features stay at 58.1%. Readability is not localized to one layer: it rises through the backbone, peaks at L19, and holds across the late-layer plateau. The signal also **transfers across backbones** (Vicuna-7B 0.692, Qwen-VL 0.704).
-
-### 3. The signal is distributed, not a shortcut
-
-Four interpretable proxies — cross-modal attention entropy, latent contextual shift, first-token decoding uncertainty — remain near chance individually, and a matched-capacity MLP over them stays ~15 points below the full probe. PCA recovery needs many components; 90% of the probe weight's L2 mass spreads across 3,152 dimensions. **Projection removal** confirms functional relevance: ablating the primary budget direction drops the retrained probe 70.1% → 61.2% and downstream J&F 0.528 → 0.480, while removing a random high-variance direction does nothing.
-
-### 4. The controller sits on the Pareto frontier
-
-<p align="center">
-  <img src="assets/pareto.png" width="72%" alt="Quality versus token cost">
-</p>
-
-| Method | Decision point | ID J&F | OOD J&F | Avg tok | Rel. tok |
-| --- | --- | --- | --- | --- | --- |
-| Always-Zero | fixed (no CoT) | 0.338 | 0.254 | 0 | 0.0% |
-| Always-Short | fixed | 0.434 | 0.394 | 93 | 33.8% |
-| Always-Long | fixed (full CoT) | 0.549 | 0.474 | 275 | 100.0% |
-| *Oracle CBL* | *oracle* | *0.623* | *0.539* | *109* | *39.6%* |
-| Text Router (PBS-A) | pre-token | 0.411 | 0.358 | 57 | 20.7% |
-| Multimodal Mean Pool | pre-token | 0.445 | 0.380 | 105 | 38.1% |
-| Confidence Router | post-Zero detector pass | 0.467 | 0.401 | 145 | 52.7% |
-| Short-then-Decide | post-Short CoT | **0.535** | **0.461** | 182 | 66.1% |
-| **`h_onset` Router (ours)** | **pre-token (PDBS)** | 0.528 | 0.458 | 110 | **40.0%** |
-
-Our controller retains **~96% of always-long quality at 40% of the reasoning tokens** — a **60% reduction**. It matches *Short-then-Decide* within 0.007 J&F while spending **39.6% fewer tokens**, because it never pays for partial generation before deciding. The OOD column is strict zero-shot transfer to R²-AVSBench with no target-split tuning.
-
-## Qualitative Results
-
-<p align="center">
-  <img src="assets/qualitative.jpg" width="97%" alt="Overthinking trap versus reasoning needed">
-</p>
-
-<p align="center">
-<em><b>(a)</b> The reference is already unambiguous; long CoT drifts to the person instead of the speaker. Routing to <b>Zero</b> recovers the correct mask.
-<b>(b)</b> The reference requires comparing sound duration across instruments — here reasoning genuinely helps, and the router spends it.</em>
-</p>
+Quantitative results, probing analyses, and qualitative comparisons are reported in the paper and will be added here once it is public.
 
 ## Repository Structure
 
@@ -289,13 +226,14 @@ More commands in [docs/REPRODUCE.md](docs/REPRODUCE.md).
 - Machine-specific paths can be overridden through `TGS_*` environment variables or CLI arguments.
 - Heavy resources are ignored by `.gitignore` and should be placed locally.
 - `scripts/check_smoke.py --strict` is the recommended pre-flight check on a new machine.
-- All splits use seed 42; confidence intervals come from 1,000-sample bootstrapping and probing significance from exact binomial tests.
+- All splits use seed 42.
 - The legacy scripts in `ground_segment_scripts/` are kept for compatibility; the preferred public entrypoint is `scripts/budget/infer_budget.py`.
 
 ## TODO
 
 - [x] Core model code, metadata CSVs, budget scripts, reproduction helpers
 - [x] Installation, data, checkpoint, and smoke-check documentation
+- [ ] Quantitative results, probing analyses, and qualitative comparisons
 - [ ] Released result tables for the final checkpoint hosting layout
 - [ ] Paper link and final BibTeX
 
