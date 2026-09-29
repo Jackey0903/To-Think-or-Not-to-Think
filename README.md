@@ -10,7 +10,9 @@
 [![Benchmark](https://img.shields.io/badge/Benchmark-RefAVSBench%20%7C%20R²--AVSBench-8A2BE2.svg)](#results)
 [![Code](https://img.shields.io/badge/Code-Released-1f6feb.svg)](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
 [![Weights](https://img.shields.io/badge/Weights-Links%20Provided-f59e0b.svg)](#model-zoo)
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-f59e0b.svg)](#citation)
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-6f42c1.svg)](https://neurips.cc/virtual/2026/poster/148558)
+
+**Accepted to NeurIPS 2026.**
 
 **The model already knows whether it needs to think — before it generates a single reasoning token.**
 
@@ -235,20 +237,12 @@ More commands in [docs/REPRODUCE.md](docs/REPRODUCE.md).
 - [x] Installation, data, checkpoint, and smoke-check documentation
 - [ ] Quantitative results, probing analyses, and qualitative comparisons
 - [ ] Released result tables for the final checkpoint hosting layout
-- [ ] Paper link and final BibTeX
+- [x] NeurIPS 2026 conference page
+- [ ] Final paper PDF and BibTeX
 
 ## Citation
 
-The paper is under review. The final BibTeX will be updated once public metadata is available.
-
-```bibtex
-@misc{to_think_or_not_to_think,
-  title  = {To Think or Not to Think: Pre-Decisional Reasoning Budgets
-            for Referring Audio-Visual Segmentation},
-  year   = {2026},
-  note   = {Under review}
-}
-```
+The paper was accepted to **NeurIPS 2026**. Please use the [official conference entry](https://neurips.cc/virtual/2026/poster/148558) for now; the final BibTeX will be added when the proceedings metadata is public.
 
 ## Acknowledgements
 
