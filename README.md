@@ -4,6 +4,8 @@
 
 ### Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation
 
+[Haojie Hu](https://openreview.net/profile?id=~Haojie_Hu1), [Senda Chen](https://openreview.net/profile?id=~Senda_Chen1), [Ying Shen](https://openreview.net/profile?id=~Ying_Shen2), [Lin Zhang](https://openreview.net/profile?id=~Lin_Zhang2)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg?logo=python&logoColor=white)](#installation)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?logo=pytorch&logoColor=white)](#installation)
 [![Task](https://img.shields.io/badge/Task-Ref--AVS-2E8B57.svg)](#overview)
@@ -13,6 +15,8 @@
 [![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-6f42c1.svg)](https://neurips.cc/virtual/2026/poster/148558)
 
 **Accepted to NeurIPS 2026.**
+
+**arXiv: coming soon.**
 
 **The model already knows whether it needs to think — before it generates a single reasoning token.**
 
@@ -238,11 +242,11 @@ More commands in [docs/REPRODUCE.md](docs/REPRODUCE.md).
 - [ ] Quantitative results, probing analyses, and qualitative comparisons
 - [ ] Released result tables for the final checkpoint hosting layout
 - [x] NeurIPS 2026 conference page
-- [ ] Final paper PDF and BibTeX
+- [ ] arXiv preprint and final BibTeX
 
 ## Citation
 
-The paper was accepted to **NeurIPS 2026**. Please use the [official conference entry](https://neurips.cc/virtual/2026/poster/148558) for now; the final BibTeX will be added when the proceedings metadata is public.
+The paper was accepted to **NeurIPS 2026**. The arXiv preprint and final BibTeX are coming soon; please use the [official conference entry](https://neurips.cc/virtual/2026/poster/148558) for now.
 
 ## Acknowledgements
 
