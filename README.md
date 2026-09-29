@@ -4,7 +4,7 @@
 
 ### Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation
 
-[Haojie Hu](https://openreview.net/profile?id=~Haojie_Hu1), [Senda Chen](https://openreview.net/profile?id=~Senda_Chen1), [Ying Shen](https://openreview.net/profile?id=~Ying_Shen2), [Lin Zhang](https://openreview.net/profile?id=~Lin_Zhang2)
+**Haojie Hu**, Senda Chen, Ying Shen, Lin Zhang
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg?logo=python&logoColor=white)](#installation)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?logo=pytorch&logoColor=white)](#installation)
