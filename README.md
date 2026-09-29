@@ -14,7 +14,7 @@
 [![Weights](https://img.shields.io/badge/Weights-Links%20Provided-f59e0b.svg)](#model-zoo)
 [![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-6f42c1.svg)](https://neurips.cc/virtual/2026/poster/148558)
 
-**Accepted to NeurIPS 2026.**
+**Accepted to the Annual Conference on Neural Information Processing Systems (NeurIPS 2026).**
 
 **arXiv: coming soon.**
 
@@ -246,7 +246,7 @@ More commands in [docs/REPRODUCE.md](docs/REPRODUCE.md).
 
 ## Citation
 
-The paper was accepted to **NeurIPS 2026**. The arXiv preprint and final BibTeX are coming soon; please use the [official conference entry](https://neurips.cc/virtual/2026/poster/148558) for now.
+The paper was accepted to the **Annual Conference on Neural Information Processing Systems (NeurIPS 2026)**. The arXiv preprint and final BibTeX are coming soon; please use the [official conference entry](https://neurips.cc/virtual/2026/poster/148558) for now.
 
 ## Acknowledgements
 
